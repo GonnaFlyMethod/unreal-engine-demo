@@ -1794,3 +1794,489 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.01.24-22.33.38:656][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2024.01.24-22.33.38:665][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
 [2024.01.24-22.33.38:734][750]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.01.24-22.37.01:004][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.37.01:004][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.37.01:004][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.37.01:520][128]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2024.01.24-22.37.05:663][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.37.05:772][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.37.05:775][229]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.37.05:775][229]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyABB06FCD4C3C44BDAE25D6A2C658D721.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.37.05:788][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 2.22 sec)
+[2024.01.24-22.37.05:789][229]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.37.05:789][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.37.33:300][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.37.33:403][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.37.33:409][609]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.37.33:409][609]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key637A14654E3B5A5DB059FFA5BC48DC78.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.37.33:418][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.34 sec)
+[2024.01.24-22.37.33:420][609]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.37.33:420][609]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.37.36:627][680]LogSlate: Took 0.000707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.24-22.37.36:887][683]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.37.44:040][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.37.54:245][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.37.54:368][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.37.54:373][222]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.37.54:374][222]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyF2EB66B34468EE401E53E7AC4B681551.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.37.54:386][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 2.48 sec)
+[2024.01.24-22.37.54:387][222]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.37.54:387][222]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.38.39:407][894]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.38.45:460][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.38.45:597][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.38.45:601][ 20]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.38.45:601][ 20]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyD7B639C8409991D2F21B58AE4DB9B31D.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.38.45:614][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 2.63 sec)
+[2024.01.24-22.38.45:616][ 20]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.38.45:616][ 20]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.38.53:045][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.38.53:269][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.38.53:276][ 57]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.38.53:276][ 57]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key1C16BC6947C7C6CBC0E0ABA6BA222E5D.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.38.53:288][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 243 ms (total: 2.88 sec)
+[2024.01.24-22.38.53:292][ 57]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.38.53:292][ 57]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.41.36:484][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.24-22.41.36:490][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F8/UBZ21SZ1S1O5MYOBCKE0PA_Auto1
+[2024.01.24-22.41.36:490][648]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/UBZ21SZ1S1O5MYOBCKE0PA_Auto18264DDC1454B3AF3C3E89A9F06219872.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F8/UBZ21SZ1S1O5MYOBCKE0PA_Auto1.uasset'
+[2024.01.24-22.41.36:492][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QH/C1X4E6B6WY2EATMQG9HYCE_Auto1
+[2024.01.24-22.41.36:492][648]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/C1X4E6B6WY2EATMQG9HYCE_Auto14B2856784706DE22676289B343F599A4.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QH/C1X4E6B6WY2EATMQG9HYCE_Auto1.uasset'
+[2024.01.24-22.41.36:495][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4A/LHG5GE1ZJVXVBCSQJFHK29_Auto1
+[2024.01.24-22.41.36:495][648]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/LHG5GE1ZJVXVBCSQJFHK29_Auto1166BD8AB471B40E59689969C3989F2FD.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4A/LHG5GE1ZJVXVBCSQJFHK29_Auto1.uasset'
+[2024.01.24-22.41.36:495][648]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.01.24-22.41.36:495][648]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2024.01.24-22.41.36:498][648]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Key] ([2] browsable assets)...
+[2024.01.24-22.41.36:519][648]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key]
+[2024.01.24-22.41.36:520][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Key]
+[2024.01.24-22.41.36:524][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Key_Auto1
+[2024.01.24-22.41.36:524][648]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key_Auto17982654943B0883CEE728D888F50821B.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Key_Auto1.uasset'
+[2024.01.24-22.41.36:525][648]LogFileHelpers: Auto-saving content packages took 0.028
+[2024.01.24-22.42.00:360][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.42.00:485][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.42.00:489][ 76]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.42.00:490][ 76]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key34EF0B8C4132F858D2F35A920D4AAA89.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.42.00:500][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 3.02 sec)
+[2024.01.24-22.42.00:502][ 76]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.42.00:502][ 76]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.42.44:572][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.42.44:709][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.42.44:718][694]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.42.44:718][694]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key857719CD4F91F31CBFB290A0FFD5AA14.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.42.44:729][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 3.17 sec)
+[2024.01.24-22.42.44:730][694]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.42.44:730][694]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.44.10:712][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.44.10:849][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.44.10:858][659]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.44.10:858][659]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyE57DC87046F914A7B128DD83291CD0A6.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.44.10:869][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 3.33 sec)
+[2024.01.24-22.44.10:870][659]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.44.10:870][659]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.44.30:422][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.44.30:565][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.44.30:571][123]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.44.30:572][123]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key47EB1E4E4B53AF36861A73AF41E42C41.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.44.30:583][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 3.49 sec)
+[2024.01.24-22.44.30:584][123]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.44.30:584][123]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.47.36:732][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.47.36:861][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.47.36:868][ 98]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.47.36:869][ 98]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key46E5EFDD44913DBD46855BAF58922059.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.47.36:878][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 3.64 sec)
+[2024.01.24-22.47.36:880][ 98]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.47.36:880][ 98]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.49.10:674][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.49.10:817][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.49.10:825][523]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.49.10:825][523]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key9EB0CD194603770A87B0679C3610C114.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.49.10:834][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 3.80 sec)
+[2024.01.24-22.49.10:834][523]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.49.10:836][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.49.17:484][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.49.17:624][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.49.17:632][668]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.49.17:632][668]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyC974329048C525CC13BAC7B661CB3857.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.49.17:642][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 3.96 sec)
+[2024.01.24-22.49.17:644][668]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.49.17:644][668]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.49.36:534][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.49.36:664][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.49.36:673][991]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.49.36:673][991]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key83089A4B4CA6DF2AE06572BE829B80B8.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.49.36:686][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 4.11 sec)
+[2024.01.24-22.49.36:687][991]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.49.36:687][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.49.54:679][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.49.54:789][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.49.54:798][106]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.49.54:798][106]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyBBEF96224D14FB49CFCC0DAEFD46F9B0.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.49.54:808][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.24 sec)
+[2024.01.24-22.49.54:809][106]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.49.54:809][106]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.49.57:480][164]LogSlate: Window 'BP_Key' being destroyed
+[2024.01.24-22.49.57:538][164]LogSlate: Window 'BP_Key' being destroyed
+[2024.01.24-22.49.57:541][164]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-22.49.57:541][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-22.50.20:726][548]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.01.24-22.50.20:749][548]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.01.24-22.50.20:758][548]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.01.24-22.50.20:769][549]LogAutomationController: Ignoring very large delta of 6.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.24-22.50.20:783][549]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.01.24-22.50.56:765][208]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_KeyWidget
+[2024.01.24-22.50.56:803][208]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.01.24-22.50.59:151][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.50.59:287][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.50.59:302][293]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.50.59:302][293]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget8996F354424561CB34C008887EC95DB4.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.50.59:320][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 4.41 sec)
+[2024.01.24-22.50.59:321][293]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.50.59:321][293]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.51.11:171][333]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.51.11:171][333]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.51.11:171][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.51.16:605][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.51.16:743][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.51.16:752][458]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.51.16:752][458]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyCCD8421B400632ADA99CD69F1B137ADF.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.51.16:765][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 4.57 sec)
+[2024.01.24-22.51.16:766][458]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.51.16:766][458]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.51.24:847][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.51.24:981][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.51.24:988][752]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.51.24:989][752]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key0A73F6DA4535DDA884EF34A44EA6F1F7.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.51.24:998][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 4.72 sec)
+[2024.01.24-22.51.24:999][752]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.51.24:999][752]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.51.32:334][785]BlueprintLog: New page: Compile BP_Key
+[2024.01.24-22.51.32:395][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.01.24-22.51.34:577][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.51.34:820][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.51.34:830][815]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.51.34:830][815]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyBFD50EC148B87EC3671FF2BEC5C2C94F.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.51.34:840][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 263 ms (total: 4.98 sec)
+[2024.01.24-22.51.34:841][815]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.51.34:841][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.51.45:320][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.51.45:436][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.24-22.51.45:444][895]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.24-22.51.45:444][895]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyAAD6725546673D4D9CDA8388366D39CB.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.24-22.51.45:454][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 5.11 sec)
+[2024.01.24-22.51.45:454][895]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.24-22.51.45:455][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.24-22.52.30:876][285]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.52.30:878][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.52.30:878][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.52.31:017][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.52.31:017][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.52.31:125][285]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.01.24-22.52.31:707][285]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.01.24-22.52.31:714][285]LogSlate: Took 0.006146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.24-22.54.36:886][194]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-22.54.49:386][594]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-22.54.50:557][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.54.50:710][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.54.50:713][628]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.54.50:713][628]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget9DC4EBAE467A7512D2AF1194F95863E4.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.54.50:725][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 5.28 sec)
+[2024.01.24-22.54.50:726][628]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.54.50:726][628]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.55.37:204][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.55.37:330][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.55.37:334][147]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.55.37:334][147]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetE213D18F40987849D7F274869916667D.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.55.37:346][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 5.42 sec)
+[2024.01.24-22.55.37:348][147]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.55.37:348][147]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.56.20:364][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.56.20:480][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.56.20:483][992]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.56.20:483][992]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget528B1CD44234C25EA7D94CB24B499000.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.56.20:493][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 5.55 sec)
+[2024.01.24-22.56.20:494][992]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.56.20:494][992]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.56.23:237][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.56.23:360][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.56.23:364][ 80]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.56.23:364][ 80]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget022A3EF648BA2CD9B1606DB973F72D20.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.56.23:376][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 5.69 sec)
+[2024.01.24-22.56.23:377][ 80]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.56.23:377][ 80]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.57.49:854][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.57.49:986][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.57.49:989][766]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.57.49:989][766]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetB924D8464BF95CFC2BAC509E27FB18AB.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.57.50:000][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 5.84 sec)
+[2024.01.24-22.57.50:001][766]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.57.50:001][766]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.58.02:756][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.58.02:856][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.58.02:859][190]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.58.02:859][190]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget6FD0B7654E5A957177AE308DFF686432.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.58.02:868][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 5.95 sec)
+[2024.01.24-22.58.02:869][190]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.58.02:869][190]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.58.19:654][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.58.19:786][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.58.19:790][597]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.58.19:790][597]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget8998E43A493532D425AF6A8EC16ECF84.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.58.19:799][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 6.10 sec)
+[2024.01.24-22.58.19:800][597]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.58.19:800][597]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.59.01:956][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.59.02:070][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.59.02:074][ 83]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.59.02:074][ 83]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget878F63BE477CAA8219838ABC97FE0B57.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.59.02:083][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 6.22 sec)
+[2024.01.24-22.59.02:084][ 83]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.59.02:084][ 83]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-22.59.30:700][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-22.59.30:814][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-22.59.30:818][767]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-22.59.30:819][767]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget9A547B394E4453D80F24B59D6DDFF85B.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-22.59.30:828][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 6.35 sec)
+[2024.01.24-22.59.30:829][767]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-22.59.30:829][767]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.00.37:451][342]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.24-23.00.37:502][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.24-23.00.40:791][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.00.40:909][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.00.40:914][464]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.00.40:914][464]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget38EEE7B447427D16512A2B817D94E3AA.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.00.40:924][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 6.48 sec)
+[2024.01.24-23.00.40:926][464]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.00.40:926][464]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.00.49:253][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.00.49:370][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.00.49:375][615]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.00.49:375][615]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetD5ED08314BBE0643D672B09C06FF28B5.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.00.49:383][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 6.61 sec)
+[2024.01.24-23.00.49:384][615]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.00.49:384][615]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.00.59:886][654]LogSlate: Took 0.005953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.24-23.02.22:709][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.02.22:838][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.02.22:842][132]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.02.22:843][132]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetF2DCBB1A495B48C61A08EDBD8B4368FB.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.02.22:853][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 6.76 sec)
+[2024.01.24-23.02.22:857][132]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.02.22:857][132]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.02.27:517][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.02.27:635][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.02.27:640][304]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.02.27:640][304]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetCC3F60DC41C0C6DDA2EC2CA511F79D6E.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.02.27:650][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 6.89 sec)
+[2024.01.24-23.02.27:653][304]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.02.27:653][304]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.02.37:769][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.02.37:887][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.02.37:891][453]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.02.37:891][453]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget237711E647279C4D8AA5B79A58B2A284.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.02.37:901][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 7.02 sec)
+[2024.01.24-23.02.37:902][453]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.02.37:902][453]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.03.16:056][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.03.16:176][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.03.16:182][270]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.03.16:182][270]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetF34ECE3445679DC859C3CEB08AB63DBC.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.03.16:192][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 7.16 sec)
+[2024.01.24-23.03.16:193][270]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.03.16:193][270]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.05.07:374][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.05.07:493][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.05.07:499][920]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.05.07:499][920]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetF9FE3D114D8FAB9ABFE80ABCE95C8F37.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.05.07:508][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 7.29 sec)
+[2024.01.24-23.05.07:510][920]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.05.07:510][920]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.06.27:323][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.06.27:435][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.06.27:442][953]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.06.27:442][953]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget86651EC346EA2E1C008F68A2148FE445.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.06.27:451][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 7.42 sec)
+[2024.01.24-23.06.27:453][953]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.06.27:453][953]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.06.49:806][ 34]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.24-23.06.49:847][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.01.24-23.06.51:861][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.06.51:975][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.06.51:982][110]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.06.51:982][110]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget37B415F247C8194DDCFFCD8D1B12EAE7.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.06.51:992][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 7.55 sec)
+[2024.01.24-23.06.51:993][110]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.06.51:993][110]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.08.05:794][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.08.05:904][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.08.05:920][603]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.08.05:920][603]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget3216505A42D2AEA1BC8DE88058DFA627.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.08.05:931][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 7.69 sec)
+[2024.01.24-23.08.05:932][603]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.08.05:932][603]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.09.46:122][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.09.46:247][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.09.46:261][377]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.09.46:261][377]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetC755BFB44F89208D89F84A8910B15F93.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.09.46:271][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 7.84 sec)
+[2024.01.24-23.09.46:272][377]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.09.46:272][377]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.10.22:847][953]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.24-23.10.22:883][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.24-23.10.26:015][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.10.26:092][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.10.26:101][ 60]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.10.26:101][ 60]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetB0BE4C324C59E4A891EB79B98EC9CAE6.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.10.26:111][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 7.93 sec)
+[2024.01.24-23.10.26:112][ 60]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.10.26:112][ 60]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.10.39:834][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.10.39:946][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.10.39:954][248]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.10.39:954][248]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget7221C6744BCBC787469C61B10167A651.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.10.39:964][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 8.06 sec)
+[2024.01.24-23.10.39:965][248]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.10.39:965][248]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.11.21:458][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.11.21:575][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.11.21:584][ 21]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.11.21:585][ 21]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetF28CC8E04C7C23E0FA0073A702386BC5.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.11.21:593][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 8.20 sec)
+[2024.01.24-23.11.21:595][ 21]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.11.21:596][ 21]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.11.46:047][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.11.46:170][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.11.46:179][605]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.11.46:179][605]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget5F8FC53448E5F0019DFABD8DCD02271A.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.11.46:190][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 8.34 sec)
+[2024.01.24-23.11.46:191][605]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.11.46:191][605]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.13.29:129][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.13.29:254][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.13.29:272][221]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.13.29:273][221]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget0654FD85412A46C27CC8BEAFA1C9B3B1.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.13.29:283][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 8.50 sec)
+[2024.01.24-23.13.29:286][221]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.13.29:286][221]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.13.52:940][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.13.53:069][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.13.53:079][650]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.13.53:079][650]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget90561B1942DBEC951C27D1A474369E64.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.13.53:089][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 8.65 sec)
+[2024.01.24-23.13.53:091][650]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.13.53:091][650]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.14.31:910][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.14.32:019][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.14.32:030][158]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.14.32:030][158]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetE2A6E26C4D0C6D8E32A5B2A37E459FE9.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.14.32:039][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 8.78 sec)
+[2024.01.24-23.14.32:041][158]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.14.32:041][158]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.14.35:253][239]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.24-23.14.35:290][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.24-23.14.36:574][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.14.36:684][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.14.36:703][277]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.14.36:704][277]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget9EDD6A1C45347D66B464F7B8C9CF7BB2.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.14.36:713][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 8.92 sec)
+[2024.01.24-23.14.36:715][277]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.14.36:715][277]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.14.38:228][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.14.38:328][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.14.38:338][335]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.14.38:338][335]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget47BC653244CFA07172662CB63A592528.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.14.38:349][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 9.04 sec)
+[2024.01.24-23.14.38:350][335]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.14.38:350][335]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.14.58:966][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.14.59:070][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset" SILENT=true
+[2024.01.24-23.14.59:081][442]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_KeyWidget
+[2024.01.24-23.14.59:082][442]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidgetF455D3B742E443E0BCCA768FBEC5F157.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_KeyWidget.uasset'
+[2024.01.24-23.14.59:092][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 9.16 sec)
+[2024.01.24-23.14.59:094][442]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.24-23.14.59:094][442]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.24-23.14.59:916][476]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.24-23.14.59:924][476]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.24-23.14.59:927][476]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.14.59:928][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.14.59:990][476]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.14.59:990][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.14.59:994][476]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.14.59:994][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.15.03:406][588]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.24-23.15.03:410][588]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.24-23.15.03:410][588]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.24-23.15.03:413][588]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 16 ms)
+[2024.01.24-23.15.03:413][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.24-23.15.03:414][588]PIE: New page: PIE session: ThirdPersonMap (Jan 25, 2024, 1:15:03 AM)
+[2024.01.24-23.15.03:414][588]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.24-23.15.03:419][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005859s)
+[2024.01.24-23.15.03:419][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005914s)
+[2024.01.24-23.15.03:437][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.24-23.15.03:445][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.15.03:445][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.15.03:445][588]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.24-23.15.03:446][588]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.24-23.15.03:446][588]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-23.15.03:446][588]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-23.15.03:446][588]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.24-23.15.03:447][588]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-23.15.03:447][588]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 122 ms)
+[2024.01.24-23.15.03:447][588]LogPlayLevel: PIE: World Init took: (0.002770s)
+[2024.01.24-23.15.03:447][588]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.01.24-23.15.03:448][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.24-23.15.03:448][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.24-23.15.03:448][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.24-23.15.03:448][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.24-23.15.03:448][588]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.24-23.15.03:448][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.24-23.15.03:448][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.24-23.15.03:448][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.24-23.15.03:448][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.24-23.15.03:448][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.24-23.15.03:448][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.24-23.15.03:451][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.24-23.15.03:470][588]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.24-23.15.03:472][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.24-23.15.03:472][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.24-23.15.03:472][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.24-23.15.03:474][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.01.24-23.15.03:474][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.01.24-23.15.03:476][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.01.24-23.15.03:476][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.01.24-23.15.03:476][588]LogInit: FAudioDevice initialized with ID 5.
+[2024.01.24-23.15.03:476][588]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.01.24-23.15.03:476][588]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.24-23.15.03:484][588]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.24-23.15.03:486][588]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.25-00.15.03
+[2024.01.24-23.15.03:487][588]LogWorld: Bringing up level for play took: 0.002310
+[2024.01.24-23.15.03:490][588]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.01.24-23.15.03:500][588]LogBlueprintUserMessages: [BP_ThirdPersonGameMode_C_0] 3
+[2024.01.24-23.15.03:500][588]PIE: Server logged in
+[2024.01.24-23.15.03:502][588]PIE: Play in editor total start time 0.091 seconds.
+[2024.01.24-23.16.10:079][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-23.16.10:079][558]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.24-23.16.10:079][558]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.16.10:079][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.16.10:080][558]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.24-23.16.10:086][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-23.16.10:092][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.16.10:113][558]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-23.16.10:113][558]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.24-23.16.10:113][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.24-23.16.10:116][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.24-23.16.10:122][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-23.16.10:126][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.24-23.16.10:282][559]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.01.24-23.16.11:218][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.16.11:335][603]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F8/UBZ21SZ1S1O5MYOBCKE0PA
+[2024.01.24-23.16.11:335][603]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/UBZ21SZ1S1O5MYOBCKE0PA48665EC341322D572A3B17B03F411948.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F8/UBZ21SZ1S1O5MYOBCKE0PA.uasset'
+[2024.01.24-23.16.11:338][603]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QH/C1X4E6B6WY2EATMQG9HYCE
+[2024.01.24-23.16.11:339][603]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/C1X4E6B6WY2EATMQG9HYCE886AEBF04B765CE47F94FBB59E3AF496.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QH/C1X4E6B6WY2EATMQG9HYCE.uasset'
+[2024.01.24-23.16.11:342][603]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4A/LHG5GE1ZJVXVBCSQJFHK29
+[2024.01.24-23.16.11:342][603]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/LHG5GE1ZJVXVBCSQJFHK29EA229675444113D07839D1828CE37284.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4A/LHG5GE1ZJVXVBCSQJFHK29.uasset'
+[2024.01.24-23.16.11:354][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 9.30 sec)
+[2024.01.24-23.16.11:357][603]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-23.16.11:357][603]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_38D57A1F4F64C2D201_2071540064
+[2024.01.24-23.16.11:357][603]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_38D57A1F4F64C2D201_2067991063
+[2024.01.24-23.16.11:357][603]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_38D57A1F4F64C2D201_2079845065
