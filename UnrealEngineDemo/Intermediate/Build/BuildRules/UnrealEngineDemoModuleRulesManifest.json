@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"A:\\unreal-engine-demo\\UnrealEngineDemo\\Source\\UnrealEngineDemo\\UnrealEngineDemo.Build.cs",
+		"A:\\unreal-engine-demo\\UnrealEngineDemo\\Source\\UnrealEngineDemo.Target.cs",
+		"A:\\unreal-engine-demo\\UnrealEngineDemo\\Source\\UnrealEngineDemoEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

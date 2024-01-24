@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\unreal-engine-demo\\unrealenginedemo\\source\\unrealenginedemo\\unrealenginedemoplayercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\unreal-engine-demo\\unrealenginedemo\\intermediate\\build\\win64\\x64\\unrealenginedemoeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "a:\\unreal-engine-demo\\unrealenginedemo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealenginedemo\\definitions.unrealenginedemo.h",
+            "a:\\unreal-engine-demo\\unrealenginedemo\\source\\unrealenginedemo\\unrealenginedemoplayercontroller.h",
+            "a:\\unreal-engine-demo\\unrealenginedemo\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealenginedemo\\uht\\unrealenginedemoplayercontroller.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputsubsystems.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputsubsysteminterface.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedplayerinput.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerinput.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedplayerinput.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\playermappablekeyslot.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\playermappablekeyslot.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsysteminterface.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsystems.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

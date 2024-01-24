@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealEngineDemo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealEngineDemo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealEngineDemoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealEngineDemo">
+      <UniqueIdentifier>{596298A8-FDD5-3D8E-A9D3-7EADC649D5EF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealEngineDemo\TP_PickUpComponent.cpp">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineDemo\TP_PickUpComponent.h">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealEngineDemo\TP_WeaponComponent.cpp">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineDemo\TP_WeaponComponent.h">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemo.Build.cs">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemo.cpp">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemo.h">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemoCharacter.cpp">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemoCharacter.h">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemoGameMode.cpp">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemoGameMode.h">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemoPlayerController.cpp">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemoPlayerController.h">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemoProjectile.cpp">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineDemo\UnrealEngineDemoProjectile.h">
+      <Filter>Source\UnrealEngineDemo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

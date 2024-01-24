@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\unreal-engine-demo\\unrealenginedemo\\source\\unrealenginedemo\\unrealenginedemogamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\unreal-engine-demo\\unrealenginedemo\\intermediate\\build\\win64\\x64\\unrealenginedemoeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "a:\\unreal-engine-demo\\unrealenginedemo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealenginedemo\\definitions.unrealenginedemo.h",
+            "a:\\unreal-engine-demo\\unrealenginedemo\\source\\unrealenginedemo\\unrealenginedemogamemode.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "a:\\unreal-engine-demo\\unrealenginedemo\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealenginedemo\\uht\\unrealenginedemogamemode.generated.h",
+            "a:\\unreal-engine-demo\\unrealenginedemo\\source\\unrealenginedemo\\unrealenginedemocharacter.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "a:\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "a:\\unreal-engine-demo\\unrealenginedemo\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealenginedemo\\uht\\unrealenginedemocharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
