@@ -3152,3 +3152,41 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.01.25-10.37.05:236][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 13.4 sec)
 [2024.01.25-10.37.05:238][370]AssetCheck: New page: Asset Save: BP_Key
 [2024.01.25-10.37.05:239][370]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key
+[2024.01.25-10.38.03:027][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.25-10.38.03:039][971]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
+[2024.01.25-10.38.03:039][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2024.01.25-10.38.03:039][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2024.01.25-10.38.03:044][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto5
+[2024.01.25-10.38.03:045][971]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_ThirdPersonGameMode_Auto507ACCF2E49E5DC855E8B949DD4914AB0.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto5.uasset'
+[2024.01.25-10.38.03:045][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Key/textures/Key9Albedo] ([1] browsable assets)...
+[2024.01.25-10.38.03:050][971]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Key/textures/Key9Albedo.Key9Albedo]
+[2024.01.25-10.38.03:050][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Key/textures/Key9Albedo]
+[2024.01.25-10.38.03:240][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/Key9Albedo_Auto5
+[2024.01.25-10.38.03:240][971]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key9Albedo_Auto55CED95514BD85527F3824CA9A9E4E071.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/Key9Albedo_Auto5.uasset'
+[2024.01.25-10.38.03:242][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Key/textures/Key9AO] ([1] browsable assets)...
+[2024.01.25-10.38.03:267][971]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Key/textures/Key9AO.Key9AO]
+[2024.01.25-10.38.03:268][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Key/textures/Key9AO]
+[2024.01.25-10.38.03:270][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/Key9AO_Auto5
+[2024.01.25-10.38.03:271][971]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key9AO_Auto5131F4370496F27F13237158BA1ADA6F2.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/Key9AO_Auto5.uasset'
+[2024.01.25-10.38.03:271][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Key/textures/Key9Metal] ([1] browsable assets)...
+[2024.01.25-10.38.03:274][971]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Key/textures/Key9Metal.Key9Metal]
+[2024.01.25-10.38.03:274][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Key/textures/Key9Metal]
+[2024.01.25-10.38.03:308][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/Key9Metal_Auto5
+[2024.01.25-10.38.03:309][971]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key9Metal_Auto571D6155C4A88DEE155870980AA013F76.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/Key9Metal_Auto5.uasset'
+[2024.01.25-10.38.03:309][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Key/textures/Key9Normal] ([1] browsable assets)...
+[2024.01.25-10.38.03:314][971]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Key/textures/Key9Normal.Key9Normal]
+[2024.01.25-10.38.03:314][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Key/textures/Key9Normal]
+[2024.01.25-10.38.03:500][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/Key9Normal_Auto5
+[2024.01.25-10.38.03:500][971]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key9Normal_Auto52B6C88FE4001CF5518412B8744457743.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/Key9Normal_Auto5.uasset'
+[2024.01.25-10.38.03:502][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Key/textures/internal_ground_ao_texture] ([1] browsable assets)...
+[2024.01.25-10.38.03:505][971]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Key/textures/internal_ground_ao_texture.internal_ground_ao_texture]
+[2024.01.25-10.38.03:505][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Key/textures/internal_ground_ao_texture]
+[2024.01.25-10.38.03:507][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/internal_ground_ao_texture_Auto5
+[2024.01.25-10.38.03:507][971]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/internal_ground_ao_texture_Auto5EC0E757A4843F9AF8D7A1192D0AF66E3.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/internal_ground_ao_texture_Auto5.uasset'
+[2024.01.25-10.38.03:508][971]LogFileHelpers: Auto-saving content packages took 0.469
+[2024.01.25-10.41.34:512][605]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (RH-835BTH TWS), InstanceID=1
+[2024.01.25-10.41.34:579][605]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3908
+[2024.01.25-10.41.34:913][606]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{0b86b07b-c12f-4a55-b0cb-f033251b802e}, Name=Headphones (RH-835BTH TWS)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=28.41
+[2024.01.25-10.41.34:913][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.25-10.41.34:915][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.25-10.53.42:336][788]LogDerivedDataCache: C:/Users/alexh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 836 files in 1256 folders with total size 32 MiB.
