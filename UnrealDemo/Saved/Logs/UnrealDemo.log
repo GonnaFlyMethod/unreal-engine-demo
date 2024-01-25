@@ -2615,3 +2615,540 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.01.24-23.42.16:980][676]MaterialEditorStats: Texture samplers: 3/16
 [2024.01.24-23.42.16:980][676]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
 [2024.01.24-23.42.16:980][676]MaterialEditorStats: Shader Count: 16
+[2024.01.24-23.42.51:267][ 97]LogMaterialEditor: Saving and Compiling material Key10
+[2024.01.24-23.42.51:272][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.42.51:372][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key10" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key10.uasset" SILENT=true
+[2024.01.24-23.42.51:374][ 97]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key10
+[2024.01.24-23.42.51:374][ 97]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key10F41745684BC76301A7759597C3C2F573.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key10.uasset'
+[2024.01.24-23.42.51:383][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 10.9 sec)
+[2024.01.24-23.42.51:384][ 97]AssetCheck: New page: Asset Save: Key10
+[2024.01.24-23.42.51:384][ 97]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/Blueprints/Key10.Key10
+[2024.01.24-23.44.43:403][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.01.24-23.44.43:406][624]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2024.01.24-23.44.43:406][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Key9] ([1] browsable assets)...
+[2024.01.24-23.44.43:422][624]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Blueprints/Key9.Key9]
+[2024.01.24-23.44.43:422][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Key9]
+[2024.01.24-23.44.43:427][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Key9_Auto3
+[2024.01.24-23.44.43:427][624]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key9_Auto34258CB40432E865D838BAA8E3F5A3F26.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/Key9_Auto3.uasset'
+[2024.01.24-23.44.43:428][624]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.01.25-00.05.47:246][162]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.01.25-00.05.47:261][162]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3908
+[2024.01.25-00.05.47:261][162]LogAutomationController: Ignoring very large delta of 1140.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.25-00.05.47:935][164]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{afef22c0-59c6-4d45-97e4-bfaaef98707c}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=465.52
+[2024.01.25-00.05.47:937][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.25-00.05.47:941][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.25-00.07.48:466][166]LogAutomationController: Ignoring very large delta of 120.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: libcurl info message cache 0 (Too old connection (1195 seconds idle), disconnect it)
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: libcurl info message cache 1 (Connection 2 seems to be dead)
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: libcurl info message cache 2 (Closing connection 2)
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: libcurl info message cache 4 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: libcurl info message cache 5 (  Trying 52.70.145.132:443...)
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: libcurl info message cache 6 (Connected to datarouter.ol.epicgames.com (52.70.145.132) port 443 (#3))
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: libcurl info message cache 7 (SSL connection timeout)
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: 0000091150C50000: libcurl info message cache 8 (Closing connection 3)
+[2024.01.25-00.07.48:466][166]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B722661F9-4EF9-0982-50CE-80A4954A4066%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=88dde77f4dbfc337409c1c972e310124%7C58faa0590ee742c3aa830a7dbb39c056%7Cf92cdc4f-26fe-43ed-b18f-bb508be5d2ab&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.01.25-00.14.13:090][168]LogAutomationController: Ignoring very large delta of 383.95 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.25-03.01.42:757][190]LogAutomationController: Ignoring very large delta of 10042.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.25-03.01.48:296][207]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.01.25-03.01.48:446][207]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3908
+[2024.01.25-03.01.48:781][208]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{afef22c0-59c6-4d45-97e4-bfaaef98707c}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=77.06
+[2024.01.25-03.01.48:781][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.25-03.01.48:783][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.25-03.01.51:128][215]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.01.25-08.53.14:705][216]LogAutomationController: Ignoring very large delta of 21086.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.25-08.53.15:583][216]LogUdpMessaging: Display: Added local interface '192.168.56.1' to multicast group '230.0.0.1:6666'
+[2024.01.25-08.53.15:583][216]LogUdpMessaging: Display: Added local interface '192.168.100.6' to multicast group '230.0.0.1:6666'
+[2024.01.25-08.53.15:604][217]LogHttp: Warning: 0000091150C56400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.01.25-08.53.15:604][217]LogHttp: Warning: 0000091150C56400: libcurl info message cache 0 (Too old connection (21094 seconds idle), disconnect it)
+[2024.01.25-08.53.15:604][217]LogHttp: Warning: 0000091150C56400: libcurl info message cache 1 (Connection 6 seems to be dead)
+[2024.01.25-08.53.15:604][217]LogHttp: Warning: 0000091150C56400: libcurl info message cache 2 (Closing connection 6)
+[2024.01.25-08.53.15:604][217]LogHttp: Warning: 0000091150C56400: libcurl info message cache 3 (Hostname in DNS cache was stale, zapped)
+[2024.01.25-08.53.15:604][217]LogHttp: Warning: 0000091150C56400: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.01.25-08.53.15:604][217]LogHttp: Warning: 0000091150C56400: libcurl info message cache 5 (Closing connection 7)
+[2024.01.25-08.53.15:604][217]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B722661F9-4EF9-0982-50CE-80A4954A4066%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=88dde77f4dbfc337409c1c972e310124%7C58faa0590ee742c3aa830a7dbb39c056%7Cf92cdc4f-26fe-43ed-b18f-bb508be5d2ab&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.01.25-08.53.29:065][244]LogAutomationController: Ignoring very large delta of 4.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.25-09.38.25:508][267]LogAutomationController: Ignoring very large delta of 2689.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.25-10.15.53:314][ 88]LogAutomationController: Ignoring very large delta of 1973.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.25-10.16.11:519][142]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (RH-835BTH TWS), InstanceID=1
+[2024.01.25-10.16.11:771][142]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3908
+[2024.01.25-10.16.12:107][143]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{0b86b07b-c12f-4a55-b0cb-f033251b802e}, Name=Headphones (RH-835BTH TWS)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=27.04
+[2024.01.25-10.16.12:107][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.25-10.16.12:108][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.25-10.16.25:689][184]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.01.25-10.16.25:773][184]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3908
+[2024.01.25-10.16.26:440][186]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{afef22c0-59c6-4d45-97e4-bfaaef98707c}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=411.76
+[2024.01.25-10.16.26:441][186]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.25-10.16.26:443][186]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.25-10.23.58:645][293]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.25-10.23.58:646][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-10.23.58:646][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-10.23.58:672][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-10.23.58:672][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-10.24.43:975][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.01.25-10.24.43:975][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-10.24.43:975][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-10.25.45:405][584]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2024.01.25-10.25.45:415][584]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2024.01.25-10.25.45:417][584]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.25.45:417][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.25.45:502][584]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.25.45:503][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.25.45:535][584]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.25.45:535][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.25.45:540][584]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.25.45:540][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.25.45:585][584]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.25-10.25.45:585][584]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.25.45:585][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.25.52:305][931]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.25-10.25.52:306][931]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-10.25.52:306][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-10.26.42:903][870]BlueprintLog: New page: Compile BP_Key
+[2024.01.25-10.26.42:991][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.01.25-10.26.52:060][191]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_KeyWidget.BP_KeyWidget
+[2024.01.25-10.26.52:060][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-10.26.52:060][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-10.26.52:096][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-10.26.52:096][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-10.27.51:819][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.25-10.27.51:821][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2024.01.25-10.27.51:822][309]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Key] ([2] browsable assets)...
+[2024.01.25-10.27.51:836][309]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Key.BP_Key]
+[2024.01.25-10.27.51:836][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Key]
+[2024.01.25-10.27.51:846][309]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Key_Auto4
+[2024.01.25-10.27.51:846][309]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key_Auto40F0276D54AD84593BA4E209A42499E84.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Key_Auto4.uasset'
+[2024.01.25-10.27.51:846][309]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.01.25-10.29.07:455][670]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.25-10.29.07:481][670]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.25-10.29.07:515][671]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.25-10.29.09:123][744]LogContentBrowser: Attempting asset rename: NewFolder -> Key
+[2024.01.25-10.29.09:131][744]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.SKEL_BP_Key_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.SKEL_BP_Key_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.SKEL_BP_Key_C:BndEvt__BP_Key_Box_K2Node_ComponentBoundEvent_3_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.SKEL_BP_Key_C:BndEvt__BP_Key_Box_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:840][873]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Key.PackageMetaData'
+[2024.01.25-10.29.12:854][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-10.29.12:957][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset" SILENT=true
+[2024.01.25-10.29.12:965][873]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/BP_Key
+[2024.01.25-10.29.12:965][873]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyA6D364C741C0D2C763562C87F9CD9DC1.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset'
+[2024.01.25-10.29.12:986][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.01.25-10.29.12:987][873]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Key
+[2024.01.25-10.29.12:987][873]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyBB57E6424417411EE4F55DB36349735F.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_Key.uasset'
+[2024.01.25-10.29.13:002][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 11.1 sec)
+[2024.01.25-10.29.13:044][873]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-10.29.13:044][873]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key
+[2024.01.25-10.29.13:044][873]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2024.01.25-10.29.13:044][873]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_Key.BP_Key_C
+[2024.01.25-10.29.13:044][873]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_Key.Default__BP_Key_C
+[2024.01.25-10.29.22:893][210]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Key/Key9.Key9' ref from Metadata '/Game/ThirdPerson/Blueprints/Key9.PackageMetaData'
+[2024.01.25-10.29.22:910][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-10.29.23:008][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset" SILENT=true
+[2024.01.25-10.29.23:017][210]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/BP_Key
+[2024.01.25-10.29.23:017][210]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyAB6FD31344CA09664B7093A1DD72DCBE.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset'
+[2024.01.25-10.29.23:018][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/Key9" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key9.uasset" SILENT=true
+[2024.01.25-10.29.23:022][210]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/Key9
+[2024.01.25-10.29.23:022][210]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key938268D76445790922B7D40BDE33B46CA.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key9.uasset'
+[2024.01.25-10.29.23:026][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/Key10" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key10.uasset" SILENT=true
+[2024.01.25-10.29.23:027][210]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/Key10
+[2024.01.25-10.29.23:027][210]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key108ADBC0B94688845B968321BE84DD36DD.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key10.uasset'
+[2024.01.25-10.29.23:042][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 11.2 sec)
+[2024.01.25-10.29.23:117][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.01.25-10.29.23:143][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.25-10.29.23:162][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.25-10.29.23:201][210]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-10.29.23:201][210]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key
+[2024.01.25-10.29.23:201][210]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Blueprints/Key/Key9.Key9
+[2024.01.25-10.29.23:201][210]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/Blueprints/Key/Key10.Key10
+[2024.01.25-10.29.27:045][353]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/Blueprints/Key/Key10.Key10
+[2024.01.25-10.29.27:056][353]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-10.29.27:056][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-10.29.27:411][353]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.29.27:411][353]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.25-10.29.27:411][353]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.29.27:423][353]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: ================================================
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Total job queries 78, among them cache hits 60 (76.92%)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 15 distinct outputs (83.33%)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: RAM used: 433.39 KiB of 819.20 MiB budget. Usage: 0.05%
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Shaders Compiled: 18
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Average time worker was idle: 78.03 s
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 0.55 s
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 3.33 s
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Job life time (pending + execution): average 1.21 s, max 3.38
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Shader code size: average 40.936 KiB, min 29.711 KiB, max 60.766 KiB
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.79 s
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Total thread time: 10.374 s
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Total thread preprocess time: 4.594 s
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Percentage time preprocessing: 44.29%
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Effective parallelization: 2.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.02 sec, max 1.71 sec, min 0.32 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.87 sec, max 1.40 sec, min 0.35 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.63% of total time (compiled    2 times, average 1.02 sec, max 1.71 sec, min 0.32 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.84% of total time (compiled    2 times, average 0.87 sec, max 1.40 sec, min 0.35 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.25% of total time (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.98% of total time (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.21% of total time (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.01.25-10.29.27:519][354]LogShaderCompilers: Display: ================================================
+[2024.01.25-10.29.27:559][355]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.01.25-10.29.27:559][355]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.25-10.29.27:559][355]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.25-10.29.27:559][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.25-10.29.27:559][355]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.29.43:266][510]LogInterchangeEngine: [Pending] Importing
+[2024.01.25-10.29.43:266][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/alexh/Downloads/key/textures/internal_ground_ao_texture.jpeg]
+[2024.01.25-10.29.43:267][510]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.25-10.29.43:267][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/alexh/Downloads/key/textures/Key9Albedo.png]
+[2024.01.25-10.29.43:268][510]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.25-10.29.43:268][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/alexh/Downloads/key/textures/Key9AO.jpg]
+[2024.01.25-10.29.43:269][510]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.25-10.29.43:269][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/alexh/Downloads/key/textures/Key9Metal.png]
+[2024.01.25-10.29.43:270][510]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.01.25-10.29.43:270][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/alexh/Downloads/key/textures/Key9Normal.png]
+[2024.01.25-10.29.43:271][510]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.25-10.29.43:271][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/alexh/Downloads/key/textures/Key9Rough.png]
+[2024.01.25-10.29.43:279][510]LogInterchangeImport: JPEG file [C:/Users/alexh/Downloads/key/textures/Key9AO.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.01.25-10.29.43:279][510]LogInterchangeImport: JPEG file [C:/Users/alexh/Downloads/key/textures/internal_ground_ao_texture.jpeg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.01.25-10.29.43:412][511]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Key/textures/internal_ground_ao_texture.internal_ground_ao_texture (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.01.25-10.29.43:440][511]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.25-10.29.43:446][511]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.01.25-10.29.43:449][511]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Key/textures/Key9AO.Key9AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.01.25-10.29.43:532][511]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.01.25-10.29.43:535][511]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.01.25-10.29.43:536][511]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.25-10.29.43:544][511]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.25-10.29.43:544][511]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.25-10.29.43:547][511]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Key/textures/Key9Metal.Key9Metal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.25-10.29.43:653][511]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Key/textures/Key9Albedo.Key9Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.25-10.29.43:705][511]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.01.25-10.29.43:774][512]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Key/textures/Key9Rough.Key9Rough (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.25-10.29.43:935][512]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.25-10.29.44:168][512]LogInterchangeEngine: [Success] Import Done
+[2024.01.25-10.29.44:238][513]LogInterchangeEngine: [Success] Import Done
+[2024.01.25-10.29.44:389][513]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Key/textures/Key9Normal.Key9Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.25-10.29.52:855][706]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.29.52:855][706]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.25-10.29.52:855][706]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.29.52:975][708]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.01.25-10.29.52:975][708]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.25-10.29.52:975][708]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.25-10.29.52:975][708]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.25-10.29.52:975][708]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.29.55:728][791]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.29.55:728][791]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.25-10.29.55:728][791]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.29.55:728][791]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.29.56:269][800]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.25-10.29.56:269][800]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.25-10.29.56:269][800]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.29.56:269][800]MaterialEditorStats: Shader Count: 1
+[2024.01.25-10.29.56:321][801]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.29.56:321][801]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.25-10.29.56:321][801]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.25-10.29.56:321][801]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.29.56:321][801]MaterialEditorStats: Shader Count: 2
+[2024.01.25-10.29.56:471][803]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.25-10.29.56:471][803]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.29.56:471][803]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.25-10.29.56:471][803]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.25-10.29.56:471][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.29.56:471][803]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.29.57:673][837]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.29.57:673][837]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.25-10.29.57:673][837]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.29.57:673][837]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.29.57:759][839]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.25-10.29.57:759][839]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.29.57:759][839]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.25-10.29.57:759][839]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.25-10.29.57:759][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.29.57:759][839]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.30.03:129][ 12]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.30.03:129][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.25-10.30.03:129][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.03:129][ 12]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.30.03:239][ 14]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.25-10.30.03:239][ 14]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.30.03:239][ 14]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.25-10.30.03:239][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.25-10.30.03:239][ 14]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.03:239][ 14]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.30.07:246][142]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.30.07:246][142]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.25-10.30.07:246][142]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.07:246][142]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.30.07:574][150]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.25-10.30.07:574][150]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.25-10.30.07:574][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.07:574][150]MaterialEditorStats: Shader Count: 1
+[2024.01.25-10.30.07:756][155]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.25-10.30.07:756][155]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.30.07:756][155]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.25-10.30.07:756][155]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.25-10.30.07:756][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.07:756][155]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.30.38:419][427]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.30.38:419][427]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.25-10.30.38:419][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.38:420][427]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.30.38:529][429]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.25-10.30.38:529][429]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.30.38:529][429]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.25-10.30.38:529][429]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.25-10.30.38:529][429]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.38:529][429]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.30.48:854][778]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.30.48:854][778]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.25-10.30.48:854][778]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.48:854][778]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.30.49:437][796]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.25-10.30.49:437][796]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.25-10.30.49:437][796]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.49:437][796]MaterialEditorStats: Shader Count: 1
+[2024.01.25-10.30.49:510][798]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.01.25-10.30.49:510][798]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.30.49:510][798]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.25-10.30.49:510][798]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.25-10.30.49:510][798]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.49:510][798]MaterialEditorStats: Shader Count: 3
+[2024.01.25-10.30.54:737][954]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.30.54:738][954]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.25-10.30.54:738][954]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.54:738][954]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.30.54:847][956]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.01.25-10.30.54:847][956]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.30.54:847][956]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.25-10.30.54:847][956]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.25-10.30.54:847][956]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.54:847][956]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.30.57:369][ 25]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.30.57:369][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.01.25-10.30.57:369][ 25]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.57:369][ 25]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.30.57:780][ 39]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.25-10.30.57:780][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.01.25-10.30.57:780][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.57:780][ 39]MaterialEditorStats: Shader Count: 1
+[2024.01.25-10.30.57:995][ 46]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.30.57:996][ 46]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.25-10.30.57:996][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.01.25-10.30.57:996][ 46]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.57:996][ 46]MaterialEditorStats: Shader Count: 3
+[2024.01.25-10.30.58:093][ 49]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.25-10.30.58:093][ 49]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.30.58:093][ 49]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.25-10.30.58:093][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.01.25-10.30.58:093][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.30.58:093][ 49]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.31.30:583][ 59]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.31.30:583][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.01.25-10.31.30:583][ 59]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.31.30:583][ 59]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.31.30:718][ 61]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.25-10.31.30:718][ 61]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.31.30:718][ 61]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.25-10.31.30:718][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.01.25-10.31.30:718][ 61]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.31.30:718][ 61]MaterialEditorStats: Shader Count: 4
+[2024.01.25-10.31.33:223][132]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.25-10.31.33:223][132]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.01.25-10.31.33:223][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.31.33:223][132]MaterialEditorStats: Shader Count: 0
+[2024.01.25-10.31.33:779][143]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.01.25-10.31.33:779][143]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.31.33:779][143]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.25-10.31.33:779][143]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.01.25-10.31.33:779][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.31.33:779][143]MaterialEditorStats: Shader Count: 3
+[2024.01.25-10.31.47:817][571]LogEditorTransaction: Undo Move Node
+[2024.01.25-10.32.17:378][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-10.32.17:569][455]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/textures/Key9Rough
+[2024.01.25-10.32.17:569][455]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key9Rough5AB97C07409E37D100B526A646A8E4AE.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/textures/Key9Rough.uasset'
+[2024.01.25-10.32.17:589][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 11.4 sec)
+[2024.01.25-10.32.17:591][455]AssetCheck: New page: Asset Save: Key9Rough
+[2024.01.25-10.32.17:591][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/Blueprints/Key/textures/Key9Rough.Key9Rough
+[2024.01.25-10.32.23:220][639]LogViewport: Scene viewport resized to 1141x511, mode Windowed.
+[2024.01.25-10.32.34:736][962]BlueprintLog: New page: Compile BP_Key
+[2024.01.25-10.32.34:815][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.25-10.32.38:138][ 46]LogMaterialEditor: Saving and Compiling material Key10
+[2024.01.25-10.32.38:751][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: ================================================
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Total job queries 218, among them cache hits 167 (76.61%)
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Tracking 48 distinct input hashes that result in 30 distinct outputs (62.50%)
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: RAM used: 1.04 MiB of 819.20 MiB budget. Usage: 0.13%
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Shaders Compiled: 48
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Jobs assigned 50, completed 48 (96.00%)
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Average time worker was idle: 4695.76 s
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.55 s
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 3.33 s
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 3.38
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Shader code size: average 37.153 KiB, min 29.711 KiB, max 60.766 KiB
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.55 s
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Average processing rate: 3.54 jobs/sec
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Total thread time: 22.412 s
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Total thread preprocess time: 7.085 s
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Percentage time preprocessing: 31.61%
+[2024.01.25-10.32.38:985][ 46]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.56 sec, max 1.71 sec, min 0.31 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 0.53 sec, max 1.27 sec, min 0.29 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   12 times, average 0.53 sec, max 1.40 sec, min 0.34 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.84% of total time (compiled   12 times, average 0.56 sec, max 1.71 sec, min 0.31 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.34% of total time (compiled   12 times, average 0.53 sec, max 1.40 sec, min 0.34 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.31% of total time (compiled    6 times, average 0.53 sec, max 1.27 sec, min 0.29 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.85% of total time (compiled    6 times, average 0.33 sec, max 1.14 sec, min 0.14 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 1.95% of total time (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.01.25-10.32.38:986][ 46]LogShaderCompilers: Display: ================================================
+[2024.01.25-10.32.39:646][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.25-10.32.39:665][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-10.32.40:864][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/Key10" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key10.uasset" SILENT=true
+[2024.01.25-10.32.40:866][ 46]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/Key10
+[2024.01.25-10.32.40:866][ 46]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key1026FF13044DB7B89BD71AC693ADD88E90.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key10.uasset'
+[2024.01.25-10.32.40:879][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.21 sec (total: 12.6 sec)
+[2024.01.25-10.32.40:880][ 46]AssetCheck: New page: Asset Save: Key10
+[2024.01.25-10.32.40:880][ 46]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/Blueprints/Key/Key10.Key10
+[2024.01.25-10.32.40:881][ 46]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.01.25-10.32.40:881][ 46]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.25-10.32.40:881][ 46]MaterialEditorStats: MaxSampler: 274 instructions
+[2024.01.25-10.32.40:881][ 46]MaterialEditorStats: Texture samplers: 8/16
+[2024.01.25-10.32.40:881][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.01.25-10.32.40:881][ 46]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.25-10.32.40:881][ 46]MaterialEditorStats: Shader Count: 16
+[2024.01.25-10.32.40:894][ 47]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.25-10.32.53:503][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-10.32.53:632][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset" SILENT=true
+[2024.01.25-10.32.53:640][414]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/BP_Key
+[2024.01.25-10.32.53:640][414]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key57C4771E487107EC3AD267AC8E075B35.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset'
+[2024.01.25-10.32.53:652][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 12.8 sec)
+[2024.01.25-10.32.53:653][414]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.25-10.32.53:654][414]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key
+[2024.01.25-10.33.03:876][913]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.25-10.33.03:888][913]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.25-10.33.03:888][913]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.25-10.33.03:891][913]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 25 ms)
+[2024.01.25-10.33.03:893][913]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.25-10.33.03:901][913]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonGameMode before play...
+[2024.01.25-10.33.03:959][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.25-10.33.03:961][913]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2024.01.25-10.33.03:961][913]PIE: New page: PIE session: ThirdPersonMap (Jan 25, 2024, 12:33:03 PM)
+[2024.01.25-10.33.03:961][913]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.25-10.33.03:968][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006146s)
+[2024.01.25-10.33.03:968][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006207s)
+[2024.01.25-10.33.03:984][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.01.25-10.33.03:986][913]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-10.33.03:986][913]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-10.33.03:986][913]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.25-10.33.03:987][913]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.25-10.33.03:987][913]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.25-10.33.03:987][913]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.25-10.33.03:987][913]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.25-10.33.03:987][913]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.25-10.33.03:987][913]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 125 ms)
+[2024.01.25-10.33.03:987][913]LogPlayLevel: PIE: World Init took: (0.002800s)
+[2024.01.25-10.33.03:987][913]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.01.25-10.33.03:989][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-10.33.03:989][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-10.33.03:989][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-10.33.03:989][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-10.33.03:989][913]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-10.33.03:989][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.25-10.33.03:989][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-10.33.03:989][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-10.33.03:990][913]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-10.33.03:990][913]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-10.33.03:990][913]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-10.33.03:992][913]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-10.33.04:018][913]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.01.25-10.33.04:018][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-10.33.04:018][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-10.33.04:018][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-10.33.04:020][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.01.25-10.33.04:020][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.01.25-10.33.04:023][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.01.25-10.33.04:023][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.01.25-10.33.04:023][913]LogInit: FAudioDevice initialized with ID 7.
+[2024.01.25-10.33.04:023][913]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.01.25-10.33.04:023][913]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.25-10.33.04:030][913]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.25-10.33.04:031][913]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.25-11.33.04
+[2024.01.25-10.33.04:032][913]LogWorld: Bringing up level for play took: 0.002080
+[2024.01.25-10.33.04:035][913]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.01.25-10.33.04:043][913]LogBlueprintUserMessages: [BP_ThirdPersonGameMode_C_0] 3
+[2024.01.25-10.33.04:043][913]PIE: Server logged in
+[2024.01.25-10.33.04:044][913]PIE: Play in editor total start time 0.157 seconds.
+[2024.01.25-10.33.14:025][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-10.33.14:025][500]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.25-10.33.14:025][500]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.33.14:025][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.33.14:026][500]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.25-10.33.14:031][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-10.33.14:037][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.33.14:055][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-10.33.14:055][500]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.25-10.33.14:055][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.25-10.33.14:058][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.25-10.33.14:070][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.01.25-10.33.14:167][501]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.01.25-10.34.08:471][500]LogMaterialEditor: Saving and Compiling material Key10
+[2024.01.25-10.34.08:478][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-10.34.08:609][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/Key10" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key10.uasset" SILENT=true
+[2024.01.25-10.34.08:612][500]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/Key10
+[2024.01.25-10.34.08:612][500]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key103707EA534A993DA11D3B4EA493617972.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key10.uasset'
+[2024.01.25-10.34.08:624][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 12.9 sec)
+[2024.01.25-10.34.08:625][500]AssetCheck: New page: Asset Save: Key10
+[2024.01.25-10.34.08:625][500]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/Blueprints/Key/Key10.Key10
+[2024.01.25-10.34.10:025][545]LogMaterialEditor: Saving and Compiling material Key10
+[2024.01.25-10.34.10:028][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-10.34.10:145][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/Key10" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key10.uasset" SILENT=true
+[2024.01.25-10.34.10:147][545]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/Key10
+[2024.01.25-10.34.10:147][545]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Key10E2C1B84540E72C8663F01A86449742B1.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/Key10.uasset'
+[2024.01.25-10.34.10:157][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 13.0 sec)
+[2024.01.25-10.34.10:158][545]AssetCheck: New page: Asset Save: Key10
+[2024.01.25-10.34.10:158][545]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/Blueprints/Key/Key10.Key10
+[2024.01.25-10.34.11:473][588]LogSlate: Window 'Key10' being destroyed
+[2024.01.25-10.34.11:480][588]LogSlate: Window 'Key10' being destroyed
+[2024.01.25-10.34.11:483][588]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.34.11:483][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.34.11:551][588]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.34.11:551][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.34.11:556][588]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.34.11:556][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.34.11:590][588]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-10.34.11:590][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-10.34.15:692][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-10.34.15:843][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset" SILENT=true
+[2024.01.25-10.34.15:853][773]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/BP_Key
+[2024.01.25-10.34.15:853][773]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key4D14E9084A9C4071BEFBEFA797CCAF2A.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset'
+[2024.01.25-10.34.15:865][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 13.2 sec)
+[2024.01.25-10.34.15:870][773]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.25-10.34.15:870][773]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key
+[2024.01.25-10.37.05:065][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-10.37.05:215][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Key/BP_Key" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset" SILENT=true
+[2024.01.25-10.37.05:224][370]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Key/BP_Key
+[2024.01.25-10.37.05:224][370]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Key69344A6549AB76EDE0AD8F9E71E62999.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Key/BP_Key.uasset'
+[2024.01.25-10.37.05:236][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 13.4 sec)
+[2024.01.25-10.37.05:238][370]AssetCheck: New page: Asset Save: BP_Key
+[2024.01.25-10.37.05:239][370]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key
