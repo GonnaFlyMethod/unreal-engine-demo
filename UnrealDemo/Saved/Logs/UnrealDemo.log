@@ -4706,3 +4706,521 @@ UnknownFunction []
 [2024.01.25-12.38.46:020][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2024.01.25-12.38.46:044][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
 [2024.01.25-12.38.46:074][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 19.3 sec)
+[2024.01.25-12.39.27:907][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.39.28:025][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.25-12.39.28:044][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.25-12.39.28:063][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.25-12.39.28:084][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 19.4 sec)
+[2024.01.25-12.39.54:408][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.39.54:540][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.25-12.39.54:562][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.25-12.39.54:582][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.25-12.39.54:630][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 19.7 sec)
+[2024.01.25-12.39.55:462][544]Cmd: EDIT COPY
+[2024.01.25-12.39.56:505][606]Cmd: EDIT PASTE
+[2024.01.25-12.40.01:418][854]Cmd: TRANSACTION UNDO
+[2024.01.25-12.40.01:419][854]LogEditorTransaction: Undo Move Elements
+[2024.01.25-12.40.07:448][127]Cmd: EDIT COPY
+[2024.01.25-12.40.07:790][147]Cmd: EDIT PASTE
+[2024.01.25-12.40.21:320][858]Cmd: MODE SCALEGRID=0
+[2024.01.25-12.40.22:551][921]Cmd: MODE SCALEGRID=1
+[2024.01.25-12.41.03:970][136]Cmd: EDIT COPY
+[2024.01.25-12.41.04:235][151]Cmd: EDIT PASTE
+[2024.01.25-12.41.06:367][244]Cmd: TRANSACTION UNDO
+[2024.01.25-12.41.06:367][244]LogEditorTransaction: Undo Move Elements
+[2024.01.25-12.41.16:316][711]Cmd: EDIT COPY
+[2024.01.25-12.41.16:611][726]Cmd: EDIT PASTE
+[2024.01.25-12.41.20:158][910]Cmd: EDIT COPY
+[2024.01.25-12.41.20:456][920]Cmd: EDIT PASTE
+[2024.01.25-12.41.35:058][646]Cmd: EDIT COPY
+[2024.01.25-12.41.35:297][659]Cmd: EDIT PASTE
+[2024.01.25-12.42.10:845][502]Cmd: DELETE
+[2024.01.25-12.42.10:845][502]Cmd: ACTOR DELETE
+[2024.01.25-12.42.10:851][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.42.10:877][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.01.25-12.42.10:880][502]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.01.25-12.42.15:995][781]Cmd: EDIT COPY
+[2024.01.25-12.42.16:265][797]Cmd: EDIT PASTE
+[2024.01.25-12.42.26:797][358]Cmd: EDIT COPY
+[2024.01.25-12.42.27:093][374]Cmd: EDIT PASTE
+[2024.01.25-12.42.52:709][757]Cmd: EDIT COPY
+[2024.01.25-12.42.52:957][765]Cmd: EDIT PASTE
+[2024.01.25-12.42.57:507][975]Cmd: EDIT COPY
+[2024.01.25-12.42.57:754][983]Cmd: EDIT PASTE
+[2024.01.25-12.43.21:535][238]Cmd: EDIT COPY
+[2024.01.25-12.43.21:791][253]Cmd: EDIT PASTE
+[2024.01.25-12.43.23:221][330]Cmd: TRANSACTION UNDO
+[2024.01.25-12.43.23:221][330]LogEditorTransaction: Undo Paste
+[2024.01.25-12.43.30:677][708]Cmd: EDIT COPY
+[2024.01.25-12.43.30:947][724]Cmd: EDIT PASTE
+[2024.01.25-12.43.40:710][247]Cmd: EDIT COPY
+[2024.01.25-12.43.43:346][396]Cmd: EDIT COPY
+[2024.01.25-12.43.43:581][410]Cmd: EDIT PASTE
+[2024.01.25-12.43.47:673][626]Cmd: EDIT COPY
+[2024.01.25-12.43.47:875][636]Cmd: EDIT PASTE
+[2024.01.25-12.43.50:980][798]Cmd: EDIT COPY
+[2024.01.25-12.43.51:167][809]Cmd: EDIT PASTE
+[2024.01.25-12.44.05:210][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.44.05:333][616]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1525376548 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SD/9AZAL133M2335R9Z6DQPNL.PackageMetaData in its package
+[2024.01.25-12.44.05:335][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.01.25-12.44.05:362][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.01.25-12.44.05:385][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.25-12.44.05:390][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2
+[2024.01.25-12.44.05:390][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/O43ETCZTFMLWWH1CJ941H2A94FE0B34B4163EC3E7597889AA40F3E.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset'
+[2024.01.25-12.44.05:393][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2024.01.25-12.44.05:393][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/OTJMGDDXDV5TI7982YKZ5P5916EDBD41F24A61D391E68FC2F47196.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2024.01.25-12.44.05:396][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF
+[2024.01.25-12.44.05:396][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/UUYHDUFQAXTRRN4RVOPIUF90BC2FC740F9F0416AD07988BB5E0E8F.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset'
+[2024.01.25-12.44.05:399][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04
+[2024.01.25-12.44.05:399][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/1IKKDYS7RULH8FRYRPPF04128ABA10431F9BC90F046A89749C6EF3.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset'
+[2024.01.25-12.44.05:402][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UK/0TCKC45KWIRP2QF6POOOJL
+[2024.01.25-12.44.05:402][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/0TCKC45KWIRP2QF6POOOJL4E5AFC9A4DD8820DC3DA04A03F820814.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UK/0TCKC45KWIRP2QF6POOOJL.uasset'
+[2024.01.25-12.44.05:405][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/T7/RXBZH5P7EJRTDI4N96LT9H
+[2024.01.25-12.44.05:405][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/RXBZH5P7EJRTDI4N96LT9H8B57ED794EEF5CC04C7F1DA528257923.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/T7/RXBZH5P7EJRTDI4N96LT9H.uasset'
+[2024.01.25-12.44.05:408][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/GM/1E61L46VDPGNZB5UAY3J93
+[2024.01.25-12.44.05:408][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/1E61L46VDPGNZB5UAY3J934831614D4D26458DED2EB3958CE354A2.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/GM/1E61L46VDPGNZB5UAY3J93.uasset'
+[2024.01.25-12.44.05:411][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FA/2D3RFXCI79X9R2WYSZNCEL
+[2024.01.25-12.44.05:412][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/2D3RFXCI79X9R2WYSZNCELDED72C88460CE0DE12CB7E894E23990D.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FA/2D3RFXCI79X9R2WYSZNCEL.uasset'
+[2024.01.25-12.44.05:415][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/Y8/UDOZC3RU8HLFL5MB2TMJ5H
+[2024.01.25-12.44.05:415][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/UDOZC3RU8HLFL5MB2TMJ5H0A4192D746DC3A6A9F2231B7F3030EE5.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/Y8/UDOZC3RU8HLFL5MB2TMJ5H.uasset'
+[2024.01.25-12.44.05:419][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/M7/O5UKVKYKTVKLA075PQ0LT1
+[2024.01.25-12.44.05:419][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/O5UKVKYKTVKLA075PQ0LT1B3CEF9254DB06D519311FF8D7A01DFF7.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/M7/O5UKVKYKTVKLA075PQ0LT1.uasset'
+[2024.01.25-12.44.05:422][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OA/J124H81IFQ622LOMJTR749
+[2024.01.25-12.44.05:422][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/J124H81IFQ622LOMJTR749D3AF7BD04ABCEE20CA0EDFA355EE147E.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OA/J124H81IFQ622LOMJTR749.uasset'
+[2024.01.25-12.44.05:427][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R1/ZMBVO61MTQLAD71GVH4491
+[2024.01.25-12.44.05:427][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/ZMBVO61MTQLAD71GVH44916970DAEE49ECA39F930361930E626437.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R1/ZMBVO61MTQLAD71GVH4491.uasset'
+[2024.01.25-12.44.05:431][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/89/AJZPUAIV0W52DGW70PV5AR
+[2024.01.25-12.44.05:431][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/AJZPUAIV0W52DGW70PV5ARCB55548B489C6C367A720F87555948FC.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/89/AJZPUAIV0W52DGW70PV5AR.uasset'
+[2024.01.25-12.44.05:434][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3Z/9G77GJTRB2W57MJO23H3ZV
+[2024.01.25-12.44.05:434][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/9G77GJTRB2W57MJO23H3ZVEEA636164D70D4086F3377805B586863.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3Z/9G77GJTRB2W57MJO23H3ZV.uasset'
+[2024.01.25-12.44.05:437][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/M1/QL473C027C7GL9MP2H6WD0
+[2024.01.25-12.44.05:438][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/QL473C027C7GL9MP2H6WD095B24057499B29B7D4853298FA5F8FFB.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/M1/QL473C027C7GL9MP2H6WD0.uasset'
+[2024.01.25-12.44.05:441][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/GD/P69WEICSM5ICEH7S98M58B
+[2024.01.25-12.44.05:441][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/P69WEICSM5ICEH7S98M58B43328BD642B68F49D2803FB92D04B86A.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/GD/P69WEICSM5ICEH7S98M58B.uasset'
+[2024.01.25-12.44.05:445][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SU/UOGM6MYTMKXWQBZ5T4O4V2
+[2024.01.25-12.44.05:445][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/UOGM6MYTMKXWQBZ5T4O4V2D913DBC14EC63ED2B465CBA87747F3BF.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SU/UOGM6MYTMKXWQBZ5T4O4V2.uasset'
+[2024.01.25-12.44.05:448][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6O/5OAM3HUOH78BER9Q7R28GP
+[2024.01.25-12.44.05:448][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/5OAM3HUOH78BER9Q7R28GPE332509C44950DC24D0A17936DEB5EDE.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6O/5OAM3HUOH78BER9Q7R28GP.uasset'
+[2024.01.25-12.44.05:451][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7H/A7SN4QF98B7Y9SMW7TVVG2
+[2024.01.25-12.44.05:452][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/A7SN4QF98B7Y9SMW7TVVG283A4B6754E5A98F5AD5095A51A1FDA3F.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7H/A7SN4QF98B7Y9SMW7TVVG2.uasset'
+[2024.01.25-12.44.05:455][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/9K/BN1DWOKYISQAG4OVX2EJF0
+[2024.01.25-12.44.05:455][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BN1DWOKYISQAG4OVX2EJF0B3FEAA2F42550BF48FB8CEAB83306263.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/9K/BN1DWOKYISQAG4OVX2EJF0.uasset'
+[2024.01.25-12.44.05:457][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EB/9ZLLMZBJJDIH5NDAMVS1XU
+[2024.01.25-12.44.05:457][616]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/9ZLLMZBJJDIH5NDAMVS1XU2F6B4EEF4E146B5026F4ACB98D1CAD08.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EB/9ZLLMZBJJDIH5NDAMVS1XU.uasset'
+[2024.01.25-12.44.05:470][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 19.9 sec)
+[2024.01.25-12.44.05:476][616]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_34
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_35
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_32
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1320090535
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1331375536
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1387820537
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1400196538
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1404041539
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1418882540
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1418886541
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1418889542
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1459850543
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1459855544
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1470677545
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1496541546
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1501338547
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1534532549
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1547166550
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1551460551
+[2024.01.25-12.44.05:476][616]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1554752552
+[2024.01.25-12.44.05:496][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.25-12.44.17:350][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.44.17:466][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.25-12.44.17:482][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.25-12.44.17:498][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.25-12.44.17:510][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 20.1 sec)
+[2024.01.25-12.45.21:502][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.45.21:611][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.25-12.45.21:631][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.25-12.45.21:646][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.25-12.45.21:649][791]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/89/AJZPUAIV0W52DGW70PV5AR
+[2024.01.25-12.45.21:649][791]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/AJZPUAIV0W52DGW70PV5AR4C0BFEE14D63FAD480CD63BD8E625E2D.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/89/AJZPUAIV0W52DGW70PV5AR.uasset'
+[2024.01.25-12.45.21:652][791]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3Z/9G77GJTRB2W57MJO23H3ZV
+[2024.01.25-12.45.21:652][791]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/9G77GJTRB2W57MJO23H3ZVE3B818B54E867C5BF527B396E5D077CD.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3Z/9G77GJTRB2W57MJO23H3ZV.uasset'
+[2024.01.25-12.45.21:655][791]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/M1/QL473C027C7GL9MP2H6WD0
+[2024.01.25-12.45.21:655][791]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/QL473C027C7GL9MP2H6WD00952A21D46B9AEE002ED0BB43CF9579C.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/M1/QL473C027C7GL9MP2H6WD0.uasset'
+[2024.01.25-12.45.21:657][791]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SU/UOGM6MYTMKXWQBZ5T4O4V2
+[2024.01.25-12.45.21:657][791]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/UOGM6MYTMKXWQBZ5T4O4V2BC741D9041D401C47A03778E75972C1A.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SU/UOGM6MYTMKXWQBZ5T4O4V2.uasset'
+[2024.01.25-12.45.21:696][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 20.3 sec)
+[2024.01.25-12.45.21:699][791]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-12.45.21:699][791]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1459850543
+[2024.01.25-12.45.21:699][791]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1459855544
+[2024.01.25-12.45.21:699][791]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1470677545
+[2024.01.25-12.45.21:699][791]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1501338547
+[2024.01.25-12.45.22:777][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.25-12.45.22:787][842]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.25-12.45.22:787][842]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.25-12.45.22:793][842]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5 ms (total: 122 ms)
+[2024.01.25-12.45.22:794][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.25-12.45.22:794][842]PIE: New page: PIE session: ThirdPersonMap (Jan 25, 2024, 2:45:22 PM)
+[2024.01.25-12.45.22:815][842]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.25-12.45.22:822][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007438s)
+[2024.01.25-12.45.22:822][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007521s)
+[2024.01.25-12.45.22:838][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.25-12.45.22:839][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-12.45.22:840][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-12.45.22:840][842]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.25-12.45.22:841][842]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.25-12.45.22:841][842]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.25-12.45.22:841][842]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.25-12.45.22:841][842]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.25-12.45.22:843][842]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.25-12.45.22:843][842]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 179 ms)
+[2024.01.25-12.45.22:843][842]LogPlayLevel: PIE: World Init took: (0.003547s)
+[2024.01.25-12.45.22:843][842]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.01.25-12.45.22:843][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-12.45.22:843][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-12.45.22:843][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-12.45.22:843][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-12.45.22:843][842]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-12.45.22:843][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.25-12.45.22:843][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-12.45.22:843][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-12.45.22:844][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-12.45.22:844][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-12.45.22:844][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-12.45.22:846][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-12.45.22:865][842]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.25-12.45.22:865][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-12.45.22:865][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-12.45.22:865][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-12.45.22:866][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.01.25-12.45.22:866][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.01.25-12.45.22:869][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.01.25-12.45.22:869][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.01.25-12.45.22:869][842]LogInit: FAudioDevice initialized with ID 30.
+[2024.01.25-12.45.22:869][842]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonMap'.
+[2024.01.25-12.45.22:869][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.01.25-12.45.22:874][842]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.25-12.45.22:877][842]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.25-13.45.22
+[2024.01.25-12.45.22:878][842]LogWorld: Bringing up level for play took: 0.003250
+[2024.01.25-12.45.22:880][842]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.01.25-12.45.22:885][842]LogBlueprintUserMessages: [BP_ThirdPersonGameMode_C_0] 3
+[2024.01.25-12.45.22:885][842]PIE: Server logged in
+[2024.01.25-12.45.22:887][842]PIE: Play in editor total start time 0.098 seconds.
+[2024.01.25-12.45.49:155][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-12.45.49:156][411]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.25-12.45.49:156][411]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-12.45.49:156][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-12.45.49:157][411]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.25-12.45.49:162][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-12.45.49:168][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-12.45.49:185][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-12.45.49:186][411]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.01.25-12.45.49:186][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.01.25-12.45.49:188][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.01.25-12.45.49:198][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.25-12.45.49:318][412]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.01.25-12.46.03:345][172]Cmd: EDIT COPY
+[2024.01.25-12.46.03:681][192]Cmd: EDIT PASTE
+[2024.01.25-12.46.06:915][366]Cmd: TRANSACTION UNDO
+[2024.01.25-12.46.06:915][366]LogEditorTransaction: Undo Move Elements
+[2024.01.25-12.46.14:645][709]Cmd: EDIT COPY
+[2024.01.25-12.46.14:859][721]Cmd: EDIT PASTE
+[2024.01.25-12.46.18:868][919]Cmd: EDIT COPY
+[2024.01.25-12.46.19:485][954]Cmd: EDIT PASTE
+[2024.01.25-12.46.25:674][264]Cmd: EDIT COPY
+[2024.01.25-12.46.25:879][272]Cmd: EDIT PASTE
+[2024.01.25-12.46.33:735][690]Cmd: EDIT COPY
+[2024.01.25-12.46.33:957][698]Cmd: EDIT PASTE
+[2024.01.25-12.46.38:139][909]Cmd: EDIT COPY
+[2024.01.25-12.46.38:381][919]Cmd: EDIT PASTE
+[2024.01.25-12.46.42:479][122]Cmd: EDIT COPY
+[2024.01.25-12.46.42:753][136]Cmd: EDIT PASTE
+[2024.01.25-12.46.44:910][249]Cmd: DELETE
+[2024.01.25-12.46.44:910][249]Cmd: ACTOR DELETE
+[2024.01.25-12.46.44:914][249]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.46.44:934][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.25-12.46.44:938][249]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.01.25-12.46.46:885][332]Cmd: DELETE
+[2024.01.25-12.46.46:885][332]Cmd: ACTOR DELETE
+[2024.01.25-12.46.46:889][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.46.46:911][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.25-12.46.46:914][332]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.01.25-12.46.53:886][706]Cmd: DELETE
+[2024.01.25-12.46.53:886][706]Cmd: ACTOR DELETE
+[2024.01.25-12.46.53:888][706]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.46.53:908][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.25-12.46.53:911][706]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.01.25-12.47.01:273][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.47.01:383][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.25-12.47.01:402][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.25-12.47.01:421][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.25-12.47.01:424][126]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3Y/DFV6A454QUYT8NPACZKOT4
+[2024.01.25-12.47.01:424][126]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/DFV6A454QUYT8NPACZKOT40EC1AF564373845184DEBF93148EBC47.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3Y/DFV6A454QUYT8NPACZKOT4.uasset'
+[2024.01.25-12.47.01:427][126]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7H/6CELGNS072DEEM33NWV863
+[2024.01.25-12.47.01:427][126]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/6CELGNS072DEEM33NWV863A0B55B9648D6E30CD6B39CBB2DFA1885.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7H/6CELGNS072DEEM33NWV863.uasset'
+[2024.01.25-12.47.01:429][126]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MO/HZL9065SORS2ZBUDNKCGAC
+[2024.01.25-12.47.01:429][126]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/HZL9065SORS2ZBUDNKCGACAD66F11B42F9DFE0860A17959D33E16F.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MO/HZL9065SORS2ZBUDNKCGAC.uasset'
+[2024.01.25-12.47.01:433][126]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Y3/FMVOO291L0AFNE9HGZVGNK
+[2024.01.25-12.47.01:433][126]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/FMVOO291L0AFNE9HGZVGNK216E262147052DDA4019C1A5BCD5622E.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Y3/FMVOO291L0AFNE9HGZVGNK.uasset'
+[2024.01.25-12.47.01:445][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 20.4 sec)
+[2024.01.25-12.47.01:447][126]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-12.47.01:448][126]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1687267553
+[2024.01.25-12.47.01:448][126]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1703070555
+[2024.01.25-12.47.01:448][126]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1709463556
+[2024.01.25-12.47.01:448][126]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1721966558
+[2024.01.25-12.47.02:372][176]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.25-12.47.02:381][176]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.25-12.47.02:381][176]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.25-12.47.02:385][176]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 126 ms)
+[2024.01.25-12.47.02:385][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.25-12.47.02:385][176]PIE: New page: PIE session: ThirdPersonMap (Jan 25, 2024, 2:47:02 PM)
+[2024.01.25-12.47.02:386][176]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.25-12.47.02:394][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008410s)
+[2024.01.25-12.47.02:394][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008462s)
+[2024.01.25-12.47.02:410][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.25-12.47.02:412][176]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-12.47.02:412][176]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-12.47.02:412][176]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.25-12.47.02:413][176]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.25-12.47.02:413][176]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.25-12.47.02:414][176]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.25-12.47.02:414][176]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.25-12.47.02:416][176]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.25-12.47.02:416][176]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 182 ms)
+[2024.01.25-12.47.02:416][176]LogPlayLevel: PIE: World Init took: (0.005071s)
+[2024.01.25-12.47.02:416][176]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.01.25-12.47.02:416][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-12.47.02:416][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-12.47.02:416][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-12.47.02:416][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-12.47.02:416][176]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-12.47.02:416][176]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.25-12.47.02:416][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-12.47.02:416][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-12.47.02:417][176]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-12.47.02:417][176]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-12.47.02:417][176]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-12.47.02:420][176]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-12.47.02:440][176]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.25-12.47.02:440][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-12.47.02:440][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-12.47.02:440][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-12.47.02:441][176]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.01.25-12.47.02:441][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.01.25-12.47.02:444][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.01.25-12.47.02:444][176]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.01.25-12.47.02:444][176]LogInit: FAudioDevice initialized with ID 31.
+[2024.01.25-12.47.02:444][176]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonMap'.
+[2024.01.25-12.47.02:444][176]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.25-12.47.02:449][176]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.25-12.47.02:452][176]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.25-13.47.02
+[2024.01.25-12.47.02:453][176]LogWorld: Bringing up level for play took: 0.003358
+[2024.01.25-12.47.02:455][176]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.01.25-12.47.02:460][176]LogBlueprintUserMessages: [BP_ThirdPersonGameMode_C_0] 3
+[2024.01.25-12.47.02:460][176]PIE: Server logged in
+[2024.01.25-12.47.02:461][176]PIE: Play in editor total start time 0.08 seconds.
+[2024.01.25-12.47.15:325][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-12.47.15:325][939]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.25-12.47.15:325][939]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-12.47.15:325][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-12.47.15:327][939]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.25-12.47.15:332][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-12.47.15:337][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-12.47.15:356][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-12.47.15:356][939]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.25-12.47.15:356][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.25-12.47.15:359][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.25-12.47.15:370][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.01.25-12.47.15:444][940]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.01.25-12.47.25:222][496]Cmd: EDIT COPY
+[2024.01.25-12.47.26:595][576]Cmd: EDIT COPY
+[2024.01.25-12.47.26:808][587]Cmd: EDIT PASTE
+[2024.01.25-12.48.02:906][525]Cmd: EDIT COPY
+[2024.01.25-12.48.04:311][605]Cmd: EDIT COPY
+[2024.01.25-12.48.04:669][626]Cmd: EDIT PASTE
+[2024.01.25-12.49.02:510][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.49.02:633][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.25-12.49.02:652][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.25-12.49.02:673][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.25-12.49.02:676][689]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EW/VBSA5M3P51W0AL0AMY2HQU
+[2024.01.25-12.49.02:676][689]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/VBSA5M3P51W0AL0AMY2HQU5B71282A4F225195AA28838C42BA1DA5.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EW/VBSA5M3P51W0AL0AMY2HQU.uasset'
+[2024.01.25-12.49.02:678][689]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/UI/VK8U0H4CAC407Y2AN537FY
+[2024.01.25-12.49.02:678][689]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/VK8U0H4CAC407Y2AN537FYB70B13954C29B19E6B1F7A8484A6BA31.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/UI/VK8U0H4CAC407Y2AN537FY.uasset'
+[2024.01.25-12.49.02:705][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 20.6 sec)
+[2024.01.25-12.49.02:708][689]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-12.49.02:708][689]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1770393560
+[2024.01.25-12.49.02:708][689]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1808254561
+[2024.01.25-12.49.25:938][927]Cmd: EDIT COPY
+[2024.01.25-12.49.26:542][961]Cmd: EDIT PASTE
+[2024.01.25-12.50.27:553][277]Cmd: EDIT COPY
+[2024.01.25-12.50.28:314][321]Cmd: EDIT PASTE
+[2024.01.25-12.50.30:902][469]Cmd: TRANSACTION UNDO
+[2024.01.25-12.50.30:902][469]LogEditorTransaction: Undo Paste
+[2024.01.25-12.50.57:311][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.50.57:431][877]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1951899563 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0T/NS71WGQKNMCKX0FSH3K5U1.PackageMetaData in its package
+[2024.01.25-12.50.57:432][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.25-12.50.57:452][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.25-12.50.57:471][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.25-12.50.57:473][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/I4/P71Y94B91WAZ3E1O7REO8W
+[2024.01.25-12.50.57:473][877]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/P71Y94B91WAZ3E1O7REO8W2BEE71C8426B041AB7CC7898B2FF0668.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/I4/P71Y94B91WAZ3E1O7REO8W.uasset'
+[2024.01.25-12.50.57:513][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 20.8 sec)
+[2024.01.25-12.50.57:516][877]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_38D57A1F4F64F2D201_1890129562
+[2024.01.25-12.50.57:516][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1890129562
+[2024.01.25-12.50.57:536][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.25-12.51.35:716][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.51.35:814][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.25-12.51.35:834][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.01.25-12.51.35:853][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.25-12.51.35:866][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 21.0 sec)
+[2024.01.25-12.51.38:282][111]Cmd: TRANSACTION UNDO
+[2024.01.25-12.51.38:282][111]LogEditorTransaction: Undo Create Folder
+[2024.01.25-12.51.50:582][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.51.50:681][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.01.25-12.51.50:702][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.25-12.51.50:719][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.25-12.51.50:722][779]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F8/UBZ21SZ1S1O5MYOBCKE0PA
+[2024.01.25-12.51.50:722][779]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/UBZ21SZ1S1O5MYOBCKE0PAE8C806224EBB3DEE17C9D4AD7A2BF581.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F8/UBZ21SZ1S1O5MYOBCKE0PA.uasset'
+[2024.01.25-12.51.50:726][779]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QH/C1X4E6B6WY2EATMQG9HYCE
+[2024.01.25-12.51.50:726][779]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/C1X4E6B6WY2EATMQG9HYCEF4EEB8014D5675BB9DEBA79930B974E7.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QH/C1X4E6B6WY2EATMQG9HYCE.uasset'
+[2024.01.25-12.51.50:729][779]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4A/LHG5GE1ZJVXVBCSQJFHK29
+[2024.01.25-12.51.50:730][779]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/LHG5GE1ZJVXVBCSQJFHK291386D9FA4EB8A19A913EAFBDBE0E1CF3.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4A/LHG5GE1ZJVXVBCSQJFHK29.uasset'
+[2024.01.25-12.51.50:732][779]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/A0/4VJK65KVPH52XOTSG2DKRU
+[2024.01.25-12.51.50:732][779]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/4VJK65KVPH52XOTSG2DKRU5A2B13524526BC13150BA9BD34508DBA.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/A0/4VJK65KVPH52XOTSG2DKRU.uasset'
+[2024.01.25-12.51.50:751][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 21.2 sec)
+[2024.01.25-12.51.50:754][779]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-12.51.50:754][779]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_38D57A1F4F64C2D201_2071540064
+[2024.01.25-12.51.50:754][779]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_38D57A1F4F64C2D201_2067991063
+[2024.01.25-12.51.50:754][779]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_38D57A1F4F64C2D201_2079845065
+[2024.01.25-12.51.50:754][779]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_96A358C0-481A982E-D29348AF-27A18162
+[2024.01.25-12.52.27:062][818]Cmd: EDIT CUT
+[2024.01.25-12.52.27:075][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.52.27:078][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.52.27:080][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.52.27:083][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.52.27:105][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.01.25-12.52.27:109][818]LogEditorActor: Deleted 4 Actors (0.039 secs)
+[2024.01.25-12.52.30:005][988]Cmd: EDIT PASTE
+[2024.01.25-12.53.13:277][336]Cmd: EDIT CUT
+[2024.01.25-12.53.13:287][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.53.13:290][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.53.13:293][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.53.13:295][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.53.13:297][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.53.13:298][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.53.13:300][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.53.13:302][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.53.13:303][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.53.13:321][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.01.25-12.53.13:325][336]LogEditorActor: Deleted 9 Actors (0.044 secs)
+[2024.01.25-12.53.16:509][524]Cmd: EDIT PASTE
+[2024.01.25-12.54.01:410][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.54.01:552][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.25-12.54.01:571][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.25-12.54.01:589][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.25-12.54.01:595][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EW/VBSA5M3P51W0AL0AMY2HQU
+[2024.01.25-12.54.01:595][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/VBSA5M3P51W0AL0AMY2HQU8032BE1A4E655E90EA4BFFA51816A7A3.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EW/VBSA5M3P51W0AL0AMY2HQU.uasset'
+[2024.01.25-12.54.01:597][810]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/H1/KKPISF7IBDY45UI07D1M41
+[2024.01.25-12.54.01:597][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/KKPISF7IBDY45UI07D1M4142E664E4429F6F474D9431AA24CD42BF.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/H1/KKPISF7IBDY45UI07D1M41.uasset'
+[2024.01.25-12.54.01:600][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/JE/QENK5TRJX4JWOVSA82P4U7
+[2024.01.25-12.54.01:600][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/QENK5TRJX4JWOVSA82P4U70FDEDE9E481E605B3BD76A8022995CB5.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/JE/QENK5TRJX4JWOVSA82P4U7.uasset'
+[2024.01.25-12.54.01:603][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JB/WQAT5ERSHMI0U340ELA1B1
+[2024.01.25-12.54.01:603][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/WQAT5ERSHMI0U340ELA1B1D51FD52E425472F309BD30929386619C.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JB/WQAT5ERSHMI0U340ELA1B1.uasset'
+[2024.01.25-12.54.01:606][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/A5/DZANIB0KRILOAXPSAQN101
+[2024.01.25-12.54.01:607][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/DZANIB0KRILOAXPSAQN101C46F78F441FF333F1F27849D956EEDE0.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/A5/DZANIB0KRILOAXPSAQN101.uasset'
+[2024.01.25-12.54.01:609][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Q2/FWVSE6388U0VJLVDZ5RFZS
+[2024.01.25-12.54.01:610][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/FWVSE6388U0VJLVDZ5RFZSB0572E3F4C77196107CBC6B620E0740E.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Q2/FWVSE6388U0VJLVDZ5RFZS.uasset'
+[2024.01.25-12.54.01:612][810]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/GX/XTIRYMSOYQU4G56VXUBLSP
+[2024.01.25-12.54.01:612][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/XTIRYMSOYQU4G56VXUBLSP1C4749D6457D7A5A69E37CB2AA44B325.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/GX/XTIRYMSOYQU4G56VXUBLSP.uasset'
+[2024.01.25-12.54.01:615][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/OA/NLNBNFLTAB8OVZGXOY70PR
+[2024.01.25-12.54.01:615][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/NLNBNFLTAB8OVZGXOY70PR632BC9EF4998E718B2EF3B8870DFE55E.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/OA/NLNBNFLTAB8OVZGXOY70PR.uasset'
+[2024.01.25-12.54.01:618][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1O/NZ8HUEAW6JJ3AN0GY3VQ3I
+[2024.01.25-12.54.01:618][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/NZ8HUEAW6JJ3AN0GY3VQ3I04AABFED4394AC044CC8C4B66AAB2800.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1O/NZ8HUEAW6JJ3AN0GY3VQ3I.uasset'
+[2024.01.25-12.54.01:621][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MY/ZR9U1SJZQ2BRDHBXV98Y8G
+[2024.01.25-12.54.01:621][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/ZR9U1SJZQ2BRDHBXV98Y8GF0C875FE438369DC138AABB96E58174A.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MY/ZR9U1SJZQ2BRDHBXV98Y8G.uasset'
+[2024.01.25-12.54.01:625][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/S8/SJY80HSUZXJRP1UERUE7UN
+[2024.01.25-12.54.01:625][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/SJY80HSUZXJRP1UERUE7UN10C4AC914D4EBA82355888912EA4270B.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/S8/SJY80HSUZXJRP1UERUE7UN.uasset'
+[2024.01.25-12.54.01:629][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BY/Z2AW3QYX4K5NGPORVTZWKJ
+[2024.01.25-12.54.01:629][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/Z2AW3QYX4K5NGPORVTZWKJ49CB7009460ABC12783F0C95DDDA1035.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BY/Z2AW3QYX4K5NGPORVTZWKJ.uasset'
+[2024.01.25-12.54.01:633][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/S8/72W238NPZ8NK5F6EXOA6LA
+[2024.01.25-12.54.01:633][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/72W238NPZ8NK5F6EXOA6LAB4119159407D1F1FEAA2CB99D22AF907.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/S8/72W238NPZ8NK5F6EXOA6LA.uasset'
+[2024.01.25-12.54.01:637][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NG/G4MZJNPYA3WXOQMKB9K34V
+[2024.01.25-12.54.01:637][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/G4MZJNPYA3WXOQMKB9K34V62CC78B54060768B9877398A35BECD7B.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NG/G4MZJNPYA3WXOQMKB9K34V.uasset'
+[2024.01.25-12.54.01:640][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WV/EJMQJVH0K8LGDUC5YDU88K
+[2024.01.25-12.54.01:641][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/EJMQJVH0K8LGDUC5YDU88K45EF892241F8BBDDA525BE820172F4D6.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WV/EJMQJVH0K8LGDUC5YDU88K.uasset'
+[2024.01.25-12.54.01:644][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZZ/8NNS4ANKBXW89RXHCXTHGL
+[2024.01.25-12.54.01:644][810]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/8NNS4ANKBXW89RXHCXTHGLC08345414F4ED0B484EEE38FC8CD7FA9.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZZ/8NNS4ANKBXW89RXHCXTHGL.uasset'
+[2024.01.25-12.54.01:656][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 246 ms (total: 21.4 sec)
+[2024.01.25-12.54.01:662][810]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_1770393560
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_F4CEE6CE-48428E84-C158D1BF-06B4280D
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2073590564
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2073593565
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2073595566
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2073596567
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_9AF86AF4-4BBC033C-355D10BA-45148FD0
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2120094568
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2120099569
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2120102570
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2120104571
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2120105572
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2120107573
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2120109574
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2120110575
+[2024.01.25-12.54.01:662][810]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F2D201_2120111576
+[2024.01.25-12.54.36:915][760]Cmd: TRANSACTION UNDO
+[2024.01.25-12.54.36:915][760]LogEditorTransaction: Undo Create Folder
+[2024.01.25-12.54.54:519][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.54.54:670][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.25-12.54.54:690][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.25-12.54.54:706][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.25-12.54.54:709][743]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/1/75/BNISKADEXIG2NM2D182JQF
+[2024.01.25-12.54.54:709][743]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BNISKADEXIG2NM2D182JQFEC3F449E491256E4CA9E97B2F786B418.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/1/75/BNISKADEXIG2NM2D182JQF.uasset'
+[2024.01.25-12.54.54:721][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 21.6 sec)
+[2024.01.25-12.54.54:722][743]AssetCheck: New page: Asset Save: ActorFolder_UID_8E4C0641-40388E84-DE34C597-FF3CF1C5
+[2024.01.25-12.54.54:722][743]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_8E4C0641-40388E84-DE34C597-FF3CF1C5
+[2024.01.25-12.55.12:129][749]Cmd: EDIT CUT
+[2024.01.25-12.55.12:135][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-12.55.12:157][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.25-12.55.12:161][749]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.01.25-12.55.13:435][823]Cmd: EDIT PASTE
+[2024.01.25-12.55.31:621][823]Cmd: EDIT COPY
+[2024.01.25-12.55.31:913][840]Cmd: EDIT PASTE
+[2024.01.25-12.56.15:507][187]Cmd: EDIT COPY
+[2024.01.25-12.56.15:728][198]Cmd: EDIT PASTE
+[2024.01.25-12.56.38:833][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.56.38:982][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.25-12.56.39:003][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.25-12.56.39:022][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.25-12.56.39:025][478]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MG/D7D9HIIL8VN10INI1T21J4
+[2024.01.25-12.56.39:025][478]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/D7D9HIIL8VN10INI1T21J4630BF41C45CBCB7749BA4894C1F9B134.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MG/D7D9HIIL8VN10INI1T21J4.uasset'
+[2024.01.25-12.56.39:028][478]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KW/K2421460V9VEOESVU0NG13
+[2024.01.25-12.56.39:028][478]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/K2421460V9VEOESVU0NG132EB1AF9C4014890EAED3EEB7D008BF27.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KW/K2421460V9VEOESVU0NG13.uasset'
+[2024.01.25-12.56.39:031][478]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6L/5237WKTUX6F03JSE6F0RT5
+[2024.01.25-12.56.39:031][478]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/5237WKTUX6F03JSE6F0RT5E0AC156D4B9DDDEE81FD82AAEB621435.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6L/5237WKTUX6F03JSE6F0RT5.uasset'
+[2024.01.25-12.56.39:043][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 21.8 sec)
+[2024.01.25-12.56.39:046][478]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-12.56.39:046][478]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F3D201_1163278753
+[2024.01.25-12.56.39:046][478]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F3D201_1181756754
+[2024.01.25-12.56.39:046][478]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D57A1F4F64F3D201_1225571755
+[2024.01.25-12.57.46:451][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.57.46:596][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.25-12.57.46:616][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.25-12.57.46:635][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.25-12.57.46:638][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.01.25-12.57.46:638][208]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/XWFFRCIJ8QK4NRO30ALA6J2FB7D3B049697AD40BB086A19571F4B6.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.01.25-12.57.46:641][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2024.01.25-12.57.46:641][208]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BEYC27T14FHBU6LF2F60RR8C35459548AA98C749CEBB8B9D8DF688.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2024.01.25-12.57.46:644][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.01.25-12.57.46:644][208]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/GK06JAEJ82TQ0GA2QB0DJG129851C742DBCA5C444811BDA0D3F8B5.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2024.01.25-12.57.46:646][208]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/7/F9/AKTX97CMR80OYKY4VTEBCX
+[2024.01.25-12.57.46:646][208]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/AKTX97CMR80OYKY4VTEBCX61929D16485B7EAB42D6C7A47C1F21EB.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/7/F9/AKTX97CMR80OYKY4VTEBCX.uasset'
+[2024.01.25-12.57.46:659][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 22.0 sec)
+[2024.01.25-12.57.46:661][208]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-12.57.46:661][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.01.25-12.57.46:661][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.01.25-12.57.46:661][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.01.25-12.57.46:661][208]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_14CD34F4-41AB58D0-013D809B-040C81A5
+[2024.01.25-12.57.49:679][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-12.57.49:826][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.25-12.57.49:847][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.25-12.57.49:869][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.25-12.57.49:882][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 22.2 sec)
