@@ -3184,3 +3184,9 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.01.25-10.38.03:507][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/internal_ground_ao_texture_Auto5
 [2024.01.25-10.38.03:507][971]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/internal_ground_ao_texture_Auto5EC0E757A4843F9AF8D7A1192D0AF66E3.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/Key/textures/internal_ground_ao_texture_Auto5.uasset'
 [2024.01.25-10.38.03:508][971]LogFileHelpers: Auto-saving content packages took 0.469
+[2024.01.25-10.41.34:512][605]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (RH-835BTH TWS), InstanceID=1
+[2024.01.25-10.41.34:579][605]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3908
+[2024.01.25-10.41.34:913][606]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{0b86b07b-c12f-4a55-b0cb-f033251b802e}, Name=Headphones (RH-835BTH TWS)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=28.41
+[2024.01.25-10.41.34:913][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.25-10.41.34:915][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.25-10.53.42:336][788]LogDerivedDataCache: C:/Users/alexh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 836 files in 1256 folders with total size 32 MiB.
