@@ -1555,3 +1555,62 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.01.26-11.12.59:441][429]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2024.01.26-11.13.02:335][575]LogDerivedDataCache: C:/Users/alexh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.097 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1324 files in 2001 folders with total size 95 MiB.
 [2024.01.26-11.13.03:698][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.26-11.14.41:953][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.26-11.15.29:022][600]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.01.26-11.15.29:047][600]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7156
+[2024.01.26-11.15.29:086][601]LogAutomationController: Ignoring very large delta of 40.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.26-11.15.31:052][606]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{afef22c0-59c6-4d45-97e4-bfaaef98707c}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1864.96
+[2024.01.26-11.15.31:052][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.26-11.15.31:055][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.26-11.17.38:883][622]LogAutomationController: Ignoring very large delta of 123.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.26-12.37.01:231][ 18]LogAutomationController: Ignoring very large delta of 4297.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.26-12.37.05:737][ 31]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4302 Seconds] waiting for h/w. InstanceID=1
+[2024.01.26-12.37.05:874][ 31]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7156
+[2024.01.26-12.37.06:209][ 32]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{afef22c0-59c6-4d45-97e4-bfaaef98707c}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=63.58
+[2024.01.26-12.37.06:209][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.26-12.37.06:212][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.26-12.37.22:545][ 82]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.01.26-17.38.02:371][ 83]LogAutomationController: Ignoring very large delta of 18042.57 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.26-17.38.03:365][ 83]LogUdpMessaging: Display: Added local interface '192.168.56.1' to multicast group '230.0.0.1:6666'
+[2024.01.26-17.38.03:393][ 84]LogHttp: Warning: 0000061E4DB55000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.01.26-17.38.03:393][ 84]LogHttp: Warning: 0000061E4DB55000: libcurl info message cache 0 (Too old connection (18063 seconds idle), disconnect it)
+[2024.01.26-17.38.03:393][ 84]LogHttp: Warning: 0000061E4DB55000: libcurl info message cache 1 (Connection 4 seems to be dead)
+[2024.01.26-17.38.03:393][ 84]LogHttp: Warning: 0000061E4DB55000: libcurl info message cache 2 (Closing connection 4)
+[2024.01.26-17.38.03:393][ 84]LogHttp: Warning: 0000061E4DB55000: libcurl info message cache 3 (Hostname in DNS cache was stale, zapped)
+[2024.01.26-17.38.03:393][ 84]LogHttp: Warning: 0000061E4DB55000: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.01.26-17.38.03:393][ 84]LogHttp: Warning: 0000061E4DB55000: libcurl info message cache 5 (Closing connection 5)
+[2024.01.26-17.38.03:393][ 84]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB681B0B-4E90-21D5-815E-6EA78EB14189%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=88dde77f4dbfc337409c1c972e310124%7C58faa0590ee742c3aa830a7dbb39c056%7Cf92cdc4f-26fe-43ed-b18f-bb508be5d2ab&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.01.26-17.38.16:090][150]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (RH-835BTH TWS), InstanceID=1
+[2024.01.26-17.38.16:262][150]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7156
+[2024.01.26-17.38.16:598][151]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{0b86b07b-c12f-4a55-b0cb-f033251b802e}, Name=Headphones (RH-835BTH TWS)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=34.41
+[2024.01.26-17.38.16:598][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.26-17.38.16:600][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.26-17.38.22:018][320]LogViewport: Scene viewport resized to 1089x553, mode Windowed.
+[2024.01.26-17.38.22:049][321]LogViewport: Scene viewport resized to 1104x553, mode Windowed.
+[2024.01.26-17.38.22:084][322]LogViewport: Scene viewport resized to 1188x553, mode Windowed.
+[2024.01.26-17.38.22:114][323]LogViewport: Scene viewport resized to 1317x553, mode Windowed.
+[2024.01.26-17.38.22:160][324]LogViewport: Scene viewport resized to 1447x553, mode Windowed.
+[2024.01.26-17.38.22:193][325]LogViewport: Scene viewport resized to 1562x553, mode Windowed.
+[2024.01.26-17.38.22:243][326]LogViewport: Scene viewport resized to 1596x553, mode Windowed.
+[2024.01.26-17.38.22:504][341]LogViewport: Scene viewport resized to 1599x553, mode Windowed.
+[2024.01.26-17.38.22:560][342]LogViewport: Scene viewport resized to 1616x553, mode Windowed.
+[2024.01.26-17.38.22:581][343]LogViewport: Scene viewport resized to 1632x553, mode Windowed.
+[2024.01.26-17.38.22:848][344]LogViewport: Scene viewport resized to 1573x553, mode Windowed.
+[2024.01.26-17.38.33:979][ 28]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_GameOver.BP_GameOver
+[2024.01.26-17.38.33:981][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-17.38.33:981][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-17.38.33:996][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-17.38.33:996][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-17.38.34:019][ 28]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.01.26-17.38.34:024][ 28]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.01.26-17.38.35:351][ 28]LogSlate: Took 0.000481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.01.26-17.38.35:364][ 28]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.01.26-17.38.35:367][ 28]LogSlate: Took 0.000773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.26-17.39.24:196][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-17.39.24:298][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_GameOver" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_GameOver.uasset" SILENT=true
+[2024.01.26-17.39.24:309][ 95]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.009268 seconds
+[2024.01.26-17.39.24:324][ 95]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_GameOver
+[2024.01.26-17.39.24:324][ 95]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOver8EAB2C504CE3901E8D6168ADE2801C3E.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_GameOver.uasset'
+[2024.01.26-17.39.24:342][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms
+[2024.01.26-17.39.24:345][ 95]AssetCheck: New page: Asset Save: BP_GameOver
+[2024.01.26-17.39.24:345][ 95]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_GameOver.BP_GameOver
