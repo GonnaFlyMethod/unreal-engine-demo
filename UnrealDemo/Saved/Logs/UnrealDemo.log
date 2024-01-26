@@ -5471,3 +5471,34 @@ Script Stack (0 frames) :
 [2024.01.26-20.30.39:214][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
 [2024.01.26-20.30.39:224][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
 [2024.01.26-20.30.39:339][  1]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.01.26-20.31.41:061][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-20.31.41:167][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.26-20.31.41:185][743]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.26-20.31.41:185][743]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverArea5615A5244E6B4989D853AAB5C7EDD21A.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.26-20.31.41:205][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 22.2 sec)
+[2024.01.26-20.31.41:206][743]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.26-20.31.41:206][743]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.26-20.32.20:389][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-20.32.20:501][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.26-20.32.20:517][217]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.26-20.32.20:517][217]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverArea2AAB6CB94C171F72BE17DBBFEE8AF82C.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.26-20.32.20:539][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 22.4 sec)
+[2024.01.26-20.32.20:540][217]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.26-20.32.20:540][217]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.26-20.32.37:831][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-20.32.37:946][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.26-20.32.37:961][858]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.26-20.32.37:962][858]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverArea6D31769345F5925D71E6E6BF277816D9.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.26-20.32.37:984][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 22.5 sec)
+[2024.01.26-20.32.37:986][858]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.26-20.32.37:986][858]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.26-20.32.46:498][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-20.32.46:609][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.26-20.32.46:625][149]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.26-20.32.46:625][149]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverAreaBDE0842449CCB39E3556FE954F6DCAA9.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.26-20.32.46:648][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 22.7 sec)
+[2024.01.26-20.32.46:651][149]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.26-20.32.46:651][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.26-20.32.47:251][169]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.26-20.32.47:307][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.26-20.33.12:077][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
