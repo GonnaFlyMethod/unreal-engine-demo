@@ -3445,3 +3445,140 @@ Make sure 'BP_ThirdPersonGameMode_C' has been compiled for  Set Timer
 [2024.01.27-12.28.07:451][285]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
 [2024.01.27-12.28.07:454][285]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
 [2024.01.27-12.28.07:455][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.29.03:776][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Door/BP_Door.BP_Door
+[2024.01.27-12.29.03:778][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.29.03:778][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.29.10:831][774]LogSlate: Window 'BP_Door' being destroyed
+[2024.01.27-12.29.10:845][774]LogSlate: Window 'BP_Door' being destroyed
+[2024.01.27-12.29.10:848][774]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.29.10:848][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.29.14:522][930]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key
+[2024.01.27-12.29.14:523][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.29.14:523][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.29.20:853][195]LogSlate: Window 'BP_Key' being destroyed
+[2024.01.27-12.29.20:865][195]LogSlate: Window 'BP_Key' being destroyed
+[2024.01.27-12.29.20:867][195]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.29.20:867][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.29.29:768][677]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_GameOver.BP_GameOver
+[2024.01.27-12.29.29:769][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.29.29:769][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.29.29:849][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.29.29:849][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.30.03:299][186]LogSlate: Window 'BP_GameOver' being destroyed
+[2024.01.27-12.30.03:312][186]LogSlate: Window 'BP_GameOver' being destroyed
+[2024.01.27-12.30.03:319][186]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.30.03:319][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.30.03:326][186]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.30.03:326][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.30.05:368][288]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.30.05:369][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.30.05:369][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.30.21:171][927]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-12.30.21:181][927]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-12.30.21:185][927]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.30.21:185][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.30.22:259][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.30.22:259][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.30.22:259][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.30.29:917][255]LogViewport: Scene viewport resized to 1141x511, mode Windowed.
+[2024.01.27-12.31.09:178][762]LogEditorTransaction: Undo Move Nodes
+[2024.01.27-12.31.41:793][937]LogEditorTransaction: Undo Move Nodes
+[2024.01.27-12.31.46:762][109]LogEditorTransaction: Undo Move Nodes
+[2024.01.27-12.32.23:095][438]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.32.23:171][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.01.27-12.33.54:868][827]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.01.27-12.36.16:674][ 84]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.36.16:725][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.01.27-12.36.17:430][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.36.17:529][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.36.17:545][106]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.36.17:545][106]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverAreaFCC6353E4B2DA607926B3A8524F140BC.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.36.17:557][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 5.01 sec)
+[2024.01.27-12.36.17:559][106]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.36.17:559][106]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.37.44:487][456]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.37.44:537][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.01.27-12.37.45:942][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.37.46:051][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.37.46:068][504]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.37.46:068][504]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverArea21CE1A354B4B4DD1EE0C1CAB02829570.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.37.46:080][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 5.15 sec)
+[2024.01.27-12.37.46:082][504]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.37.46:082][504]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.37.57:832][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.37.57:929][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.37.57:944][963]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.37.57:944][963]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverArea496694D64251603044E425BA6612D7D3.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.37.57:957][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 5.27 sec)
+[2024.01.27-12.37.57:958][963]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.37.57:958][963]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.37.58:361][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.37.58:462][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.37.58:479][978]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.37.58:479][978]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverAreaCDCF6B5744DD80945B9B08B6B41A85B9.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.37.58:491][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 5.40 sec)
+[2024.01.27-12.37.58:492][978]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.37.58:492][978]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.38.32:284][303]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.38.32:352][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.01.27-12.38.32:872][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.38.32:973][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.38.32:989][316]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.38.32:989][316]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverArea05A1122242039373D44D5D88C3EFD1CA.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.38.33:003][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 5.53 sec)
+[2024.01.27-12.38.33:004][316]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.38.33:004][316]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.38.48:673][912]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.38.48:727][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.01.27-12.38.49:341][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.38.49:453][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.38.49:470][932]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.38.49:470][932]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverAreaFD73D7BA4950C4CF953D5F9E6189621D.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.38.49:484][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 5.68 sec)
+[2024.01.27-12.38.49:486][932]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.38.49:486][932]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.39.21:136][166]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.39.21:192][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.01.27-12.39.21:781][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.39.21:873][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.39.21:890][182]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.39.21:890][182]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverArea0EF9A4F94B835433603C96A173CAF4E3.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.39.21:904][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 5.80 sec)
+[2024.01.27-12.39.21:907][182]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.39.21:907][182]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.40.01:476][729]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.40.01:539][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.01.27-12.40.02:011][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.40.02:110][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.40.02:126][740]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.40.02:126][740]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverAreaE1EF869C405C7F4E48061DB3466A43B5.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.40.02:144][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 5.93 sec)
+[2024.01.27-12.40.02:146][740]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.40.02:146][740]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.40.02:310][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.01.27-12.40.02:314][741]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2024.01.27-12.40.02:314][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.01.27-12.40.02:314][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.01.27-12.40.02:330][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2024.01.27-12.40.02:330][741]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_ThirdPersonCharacter_Auto5704E89D9482D5A7A87826E8C475755CB.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2024.01.27-12.40.02:330][741]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.01.27-12.40.13:894][147]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.40.13:954][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.01.27-12.40.14:658][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.40.14:754][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.40.14:770][166]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.40.14:770][166]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverArea9003F72E4ED2C56C92DF4390FBD30665.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.40.14:782][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 6.06 sec)
+[2024.01.27-12.40.14:784][166]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.40.14:784][166]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.40.15:523][193]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-12.40.15:534][193]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-12.40.15:537][193]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.40.15:537][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.40.35:134][258]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.01.27-12.40.35:136][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.40.35:136][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.40.47:442][696]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2024.01.27-12.40.47:454][696]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2024.01.27-12.40.47:458][696]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.40.47:458][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
