@@ -2445,3 +2445,852 @@ Make sure 'BP_ThirdPersonGameMode_C' has been compiled for  Set Timer
 [2024.01.27-12.01.45:720][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 2.60 sec)
 [2024.01.27-12.01.45:723][181]AssetCheck: New page: Asset Save: BP_GameOverArea
 [2024.01.27-12.01.45:723][181]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.02.31:061][ 52]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.02.31:114][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.27-12.02.31:994][ 85]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-12.02.32:009][ 85]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-12.02.32:011][ 85]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.02.32:011][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.02.39:767][435]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_GameOver.BP_GameOver
+[2024.01.27-12.02.39:768][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.02.39:768][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.02.39:797][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.02.39:797][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.02.44:826][591]LogSlate: Window 'BP_GameOver' being destroyed
+[2024.01.27-12.02.44:837][591]LogSlate: Window 'BP_GameOver' being destroyed
+[2024.01.27-12.02.44:844][591]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.02.44:844][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.02.44:850][591]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.02.44:850][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.02.45:691][623]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.02.45:692][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.02.45:692][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.02.45:724][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.02.45:724][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.03.29:243][ 20]LogSlate: Window 'Delete Variable' being destroyed
+[2024.01.27-12.03.30:132][ 52]LogEditorTransaction: Undo Create Pin Link
+[2024.01.27-12.03.31:012][ 73]LogEditorTransaction: Undo Delete current selection
+[2024.01.27-12.04.08:135][336]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.27-12.04.08:183][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.01.27-12.04.08:793][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.04.08:901][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset" SILENT=true
+[2024.01.27-12.04.08:910][357]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget
+[2024.01.27-12.04.08:910][357]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget13925EFF49DB9E9E7A1061B7223AEDD4.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset'
+[2024.01.27-12.04.08:924][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 2.73 sec)
+[2024.01.27-12.04.08:926][357]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.27-12.04.08:926][357]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.04.15:348][621]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-12.04.15:360][621]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-12.04.15:360][621]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.27-12.04.15:364][621]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 49 ms)
+[2024.01.27-12.04.15:364][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-12.04.15:364][621]PIE: New page: PIE session: ThirdPersonMap (Jan 27, 2024, 2:04:15 PM)
+[2024.01.27-12.04.15:366][621]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.04.15:377][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011973s)
+[2024.01.27-12.04.15:377][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012028s)
+[2024.01.27-12.04.15:394][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.27-12.04.15:398][621]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.04.15:398][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.04.15:398][621]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-12.04.15:399][621]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-12.04.15:399][621]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-12.04.15:399][621]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-12.04.15:399][621]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-12.04.15:402][621]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-12.04.15:402][621]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 943 ms)
+[2024.01.27-12.04.15:402][621]LogPlayLevel: PIE: World Init took: (0.003941s)
+[2024.01.27-12.04.15:402][621]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.01.27-12.04.15:402][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-12.04.15:402][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-12.04.15:402][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-12.04.15:402][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-12.04.15:402][621]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-12.04.15:402][621]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-12.04.15:402][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-12.04.15:402][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-12.04.15:402][621]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-12.04.15:403][621]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-12.04.15:403][621]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-12.04.15:405][621]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-12.04.15:425][621]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.27-12.04.15:425][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-12.04.15:425][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-12.04.15:425][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-12.04.15:427][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.01.27-12.04.15:427][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.01.27-12.04.15:429][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.01.27-12.04.15:429][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.01.27-12.04.15:429][621]LogInit: FAudioDevice initialized with ID 10.
+[2024.01.27-12.04.15:429][621]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2024.01.27-12.04.15:429][621]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.27-12.04.15:436][621]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-12.04.15:441][621]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-13.04.15
+[2024.01.27-12.04.15:441][621]LogWorld: Bringing up level for play took: 0.003702
+[2024.01.27-12.04.15:443][621]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.01.27-12.04.15:447][621]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_0' was already added to the screen.
+[2024.01.27-12.04.15:447][621]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-12.04.15:448][621]PIE: Server logged in
+[2024.01.27-12.04.15:449][621]PIE: Play in editor total start time 0.089 seconds.
+[2024.01.27-12.04.24:731][160]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0027
+[2024.01.27-12.04.24:739][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:739][160]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0062
+[2024.01.27-12.04.24:739][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:739][160]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0081
+[2024.01.27-12.04.24:739][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:750][161]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0027
+[2024.01.27-12.04.24:750][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:750][161]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0062
+[2024.01.27-12.04.24:750][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:750][161]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0081
+[2024.01.27-12.04.24:750][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:767][162]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0027
+[2024.01.27-12.04.24:767][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:767][162]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0062
+[2024.01.27-12.04.24:767][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:767][162]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0081
+[2024.01.27-12.04.24:767][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:782][163]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0027
+[2024.01.27-12.04.24:782][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:782][163]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0062
+[2024.01.27-12.04.24:782][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:782][163]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0081
+[2024.01.27-12.04.24:782][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:799][164]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0027
+[2024.01.27-12.04.24:799][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:799][164]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0062
+[2024.01.27-12.04.24:799][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:799][164]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0081
+[2024.01.27-12.04.24:799][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:816][165]LogScript: Warning: Accessed None trying to read property GameModeRef
+	BP_KeyWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.BP_KeyWidget_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget_C:GetText:0027
+[2024.01.27-12.04.24:816][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:816][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:816][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:831][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:832][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:832][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:848][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:849][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:849][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:865][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:865][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:865][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:883][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:883][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:883][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:899][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:899][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:899][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:916][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:916][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:916][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:932][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:932][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:932][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:949][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:949][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:949][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:966][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:966][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:966][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:983][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:983][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:983][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:999][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:999][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.24:999][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:017][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:017][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:017][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:034][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:034][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:034][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:050][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:050][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:050][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:067][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:067][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:067][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:083][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:083][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:083][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:100][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:100][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:100][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:117][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:117][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:117][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:134][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:134][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:134][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:151][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:151][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:151][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:167][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:167][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:167][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:182][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:183][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:183][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:200][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:200][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:200][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:216][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:216][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:216][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:233][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:233][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:233][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:250][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:250][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:250][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:266][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:266][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:266][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:283][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:283][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:283][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:299][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:300][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:300][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:317][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:317][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:317][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:333][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:333][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:333][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:350][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:350][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:350][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:367][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:367][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:367][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:383][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:383][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:383][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:399][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:400][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:400][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:416][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:416][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:416][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:433][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:433][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:433][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:450][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:450][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:450][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:467][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:467][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:467][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:484][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:484][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:484][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:499][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:500][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:500][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:517][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:517][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:517][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:534][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:534][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:534][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:551][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:551][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:551][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:566][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:567][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:567][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:583][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:583][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:583][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:600][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:600][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:600][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:616][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:617][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:617][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:634][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:634][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:634][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:650][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:650][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:650][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:666][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:666][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:666][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:683][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:683][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:683][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:699][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:699][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:699][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:716][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:716][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:716][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:732][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:732][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:732][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:751][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:751][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:751][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:767][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:767][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:767][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:783][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:783][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:783][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:800][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:800][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:800][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:817][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:817][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:817][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:833][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:833][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:833][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:849][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:849][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:849][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:866][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:866][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:866][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:882][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:882][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:882][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:899][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:899][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:899][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:915][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:915][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:915][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:932][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:932][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:932][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:950][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:950][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:950][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:968][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:968][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:968][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:983][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:983][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.25:983][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:000][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:000][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:000][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:016][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:016][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:016][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:033][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:033][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:033][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:049][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:049][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:049][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:066][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:066][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:066][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:082][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:083][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:083][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:099][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:099][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:100][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:116][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:116][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:116][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:133][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:133][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:133][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:150][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:150][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:150][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:167][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:167][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:167][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:182][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:183][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:183][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:199][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:200][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:200][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:216][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:216][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:216][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:231][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:233][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:233][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:249][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:249][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:249][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:266][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:266][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:266][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:282][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:282][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:282][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:298][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:300][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:300][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:315][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:315][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:315][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:332][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:332][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:332][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:349][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:349][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:349][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:367][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:367][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:367][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:382][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:382][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:382][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:399][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:399][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:399][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:416][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:416][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:416][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:434][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:434][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:434][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:449][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:449][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:449][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:467][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:467][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:467][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:482][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:483][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:483][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:499][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:499][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:499][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:515][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:516][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:516][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:531][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:533][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:533][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:549][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:549][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:549][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:567][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:567][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:567][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:583][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:584][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:584][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:599][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:600][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:600][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:616][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:616][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:616][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:632][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:633][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:633][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:649][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:649][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:650][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:666][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:666][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:666][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:682][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:683][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:683][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:700][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:700][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:700][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:715][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:715][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:715][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:732][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:732][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:732][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:750][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:750][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:750][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:766][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:768][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:768][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:783][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:783][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:783][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:799][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:799][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:800][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:817][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:817][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:817][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:833][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:833][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:833][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:850][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:850][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:850][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:866][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:866][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:866][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:882][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:882][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:882][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:899][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:899][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:899][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:916][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:916][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:916][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:933][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:933][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:933][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:949][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:949][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:949][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:967][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:967][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:967][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:983][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:983][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:983][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:999][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.26:999][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:000][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:017][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:017][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:017][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:033][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:033][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:033][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:049][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:049][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:049][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:067][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:067][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:067][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:083][301]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:083][301]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:083][301]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:099][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:099][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:099][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:116][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:116][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:116][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:133][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:133][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:133][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:149][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:149][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:149][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:166][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:166][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:166][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:184][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:184][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:184][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:200][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:200][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:200][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:216][309]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:216][309]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:218][309]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:233][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:233][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:233][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:249][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:249][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:249][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:266][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:266][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:266][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:283][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:284][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:284][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:301][314]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:301][314]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:301][314]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:316][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:316][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:316][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:333][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:333][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:333][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:350][317]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:350][317]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:351][317]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:368][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:368][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:368][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:384][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:384][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:384][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:400][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:400][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:400][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:417][321]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:417][321]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:417][321]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:433][322]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:433][322]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:433][322]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:450][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:450][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:450][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:466][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:466][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:467][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:483][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:483][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:483][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:499][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:499][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.27:499][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameModeRef". Node:  Return Node Graph:  GetText Function:  Get Text Blueprint:  BP_KeyWidget
+[2024.01.27-12.04.34:994][776]Cmd: quit
+[2024.01.27-12.04.34:996][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.04.34:996][776]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.04.35:017][776]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.04.35:018][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.04.35:018][776]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-12.04.35:022][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-12.04.35:029][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.04.35:046][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.04.35:048][776]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.27-12.04.35:048][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.27-12.04.35:050][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.27-12.04.35:064][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.01.27-12.04.35:806][777]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.01.27-12.04.58:434][617]LogEditorTransaction: Undo Move Node
+[2024.01.27-12.04.59:072][625]LogEditorTransaction: Undo Create Pin Link
+[2024.01.27-12.04.59:719][640]LogEditorTransaction: Undo Delete current selection
+[2024.01.27-12.06.10:789][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.06.10:892][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset" SILENT=true
+[2024.01.27-12.06.10:903][ 74]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget
+[2024.01.27-12.06.10:903][ 74]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget2A2DA8C9409511D444F211A30707D058.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset'
+[2024.01.27-12.06.10:916][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.86 sec)
+[2024.01.27-12.06.10:918][ 74]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.27-12.06.10:918][ 74]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.06.55:509][704]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.27-12.06.55:562][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.01.27-12.06.56:085][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.06.56:213][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset" SILENT=true
+[2024.01.27-12.06.56:223][720]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget
+[2024.01.27-12.06.56:223][720]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget9A3625F24160DA598696E187307D1FBE.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset'
+[2024.01.27-12.06.56:237][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 3.01 sec)
+[2024.01.27-12.06.56:239][720]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.27-12.06.56:239][720]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.06.57:306][758]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-12.06.57:317][758]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-12.06.57:324][758]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.06.57:324][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.06.57:331][758]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.06.57:331][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.07.00:455][897]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-12.07.00:479][897]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-12.07.01:560][950]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.07.01:561][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.07.01:561][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.07.01:593][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.07.01:594][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.07.08:053][216]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer
+[2024.01.27-12.07.08:055][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.07.08:055][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.07.08:079][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.07.08:079][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.07.09:539][259]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-12.07.09:550][259]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-12.07.09:559][259]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.07.09:559][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.07.09:565][259]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.07.09:565][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.07.09:591][259]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.07.09:591][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.07.09:596][259]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.07.09:596][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.07.10:742][304]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.07.10:743][304]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.07.10:743][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.07.10:775][304]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.07.10:775][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.07.28:688][915]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.27-12.07.28:738][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.27-12.07.29:199][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.07.29:326][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset" SILENT=true
+[2024.01.27-12.07.29:335][928]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget
+[2024.01.27-12.07.29:335][928]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget41DD0C4A4FF1880E05FBF3B38072FAB7.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset'
+[2024.01.27-12.07.29:347][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 3.16 sec)
+[2024.01.27-12.07.29:350][928]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.27-12.07.29:350][928]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.07.34:049][108]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.27-12.07.34:103][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.01.27-12.07.37:072][223]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.27-12.07.37:114][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.01.27-12.07.39:263][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.07.39:368][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset" SILENT=true
+[2024.01.27-12.07.39:377][299]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget
+[2024.01.27-12.07.39:378][299]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget8E28B88444CACF78FA3BA6A244B38F06.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset'
+[2024.01.27-12.07.39:393][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 3.29 sec)
+[2024.01.27-12.07.39:395][299]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.27-12.07.39:395][299]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.07.40:238][331]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-12.07.40:251][331]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-12.07.40:260][331]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.07.40:260][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.07.40:266][331]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.07.40:266][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.07.49:006][797]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.07.49:007][797]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.07.49:007][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.07.49:058][797]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.07.49:059][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.07.57:593][ 43]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.08.00:701][170]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_GameOver.BP_GameOver
+[2024.01.27-12.08.00:702][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.08.00:702][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.08.00:729][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.08.00:729][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.08.06:288][328]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.08.07:037][352]LogSlate: Window 'BP_GameOver' being destroyed
+[2024.01.27-12.08.07:048][352]LogSlate: Window 'BP_GameOver' being destroyed
+[2024.01.27-12.08.07:055][352]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.08.07:055][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.08.07:062][352]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.08.07:062][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.08.07:099][352]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.08.07:099][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.08.07:105][352]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.08.07:105][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.08.08:744][417]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.08.08:744][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.08.08:744][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.08.08:777][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.08.08:778][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.08.16:362][658]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.08.17:923][708]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.27-12.08.17:972][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.01.27-12.08.18:657][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.08.18:770][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset" SILENT=true
+[2024.01.27-12.08.18:779][723]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget
+[2024.01.27-12.08.18:780][723]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget819985074B4D4197D4BC67A378C7B8A8.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset'
+[2024.01.27-12.08.18:795][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 3.43 sec)
+[2024.01.27-12.08.18:797][723]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.27-12.08.18:797][723]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.08.48:823][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key
+[2024.01.27-12.08.48:824][897]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.08.48:824][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.09.26:696][244]BlueprintLog: New page: Compile BP_Key
+[2024.01.27-12.09.26:742][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.27-12.09.27:618][271]LogSlate: Window 'BP_Key' being destroyed
+[2024.01.27-12.09.27:630][271]LogSlate: Window 'BP_Key' being destroyed
+[2024.01.27-12.09.27:637][271]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.09.27:637][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.09.27:643][271]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.09.27:643][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.09.27:672][271]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.09.27:672][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.09.30:124][389]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Key/SpawnPoint.SpawnPoint
+[2024.01.27-12.09.30:126][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.09.30:126][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.09.33:006][488]LogSlate: Window 'SpawnPoint' being destroyed
+[2024.01.27-12.09.33:018][488]LogSlate: Window 'SpawnPoint' being destroyed
+[2024.01.27-12.09.33:022][488]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.09.33:022][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.09.37:086][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.09.37:087][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.09.37:088][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.09.51:890][211]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-12.09.51:901][211]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-12.09.51:903][211]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.09.51:903][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.09.54:971][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.27-12.09.54:972][364]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.09.54:972][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.09.55:543][366]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.11.23:658][210]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.27-12.11.23:741][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.01.27-12.11.48:936][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.01.27-12.11.48:942][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2024.01.27-12.11.48:942][319]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.01.27-12.11.48:943][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.11.49:230][319]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.01.27-12.11.49:253][319]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.01.27-12.11.49:253][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.01.27-12.11.49:269][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2024.01.27-12.11.49:269][319]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_ThirdPersonCharacter_Auto3B6A7B1854A609F3C4ACE01A65CED2499.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2024.01.27-12.11.49:269][319]LogFileHelpers: Auto-saving content packages took 0.327
+[2024.01.27-12.14.20:582][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.14.20:702][431]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.27-12.14.20:703][431]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_ThirdPersonCharacter7009F3114D33006D2C169FB19B04F116.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.27-12.14.20:717][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 3.56 sec)
+[2024.01.27-12.14.20:718][431]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.27-12.14.20:718][431]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.27-12.16.23:784][826]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'ACharacter::Jump' [The specified module could not be found.]
+[2024.01.27-12.16.32:749][195]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.16.39:921][510]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.16.46:388][793]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.16.56:001][218]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.16.59:557][381]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.27-12.16.59:635][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.01.27-12.17.01:548][461]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.01.27-12.17.01:559][461]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.01.27-12.17.01:561][461]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.17.01:561][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.17.04:018][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Door/BP_Door.BP_Door
+[2024.01.27-12.17.04:018][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.17.04:018][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.17.04:326][571]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.01.27-12.17.26:419][556]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.01.27-12.17.47:648][432]BlueprintLog: New page: Compile BP_Door
+[2024.01.27-12.17.47:708][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.01.27-12.18.31:551][461]BlueprintLog: New page: Compile BP_Door
+[2024.01.27-12.18.31:608][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.01.27-12.18.32:189][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.18.32:302][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Door/BP_Door" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Door/BP_Door.uasset" SILENT=true
+[2024.01.27-12.18.32:311][484]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Door/BP_Door
+[2024.01.27-12.18.32:311][484]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_DoorE54677634FB6E3D0315C5D98C67F0D68.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Door/BP_Door.uasset'
+[2024.01.27-12.18.32:323][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 3.70 sec)
+[2024.01.27-12.18.32:326][484]AssetCheck: New page: Asset Save: BP_Door
+[2024.01.27-12.18.32:326][484]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Door/BP_Door.BP_Door
+[2024.01.27-12.18.33:584][546]LogSlate: Window 'BP_Door' being destroyed
+[2024.01.27-12.18.33:596][546]LogSlate: Window 'BP_Door' being destroyed
+[2024.01.27-12.18.33:599][546]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.18.33:599][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.18.37:671][762]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Key/BP_Key.BP_Key
+[2024.01.27-12.18.37:671][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.18.37:671][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.18.40:043][838]BlueprintLog: New page: Compile BP_Key
+[2024.01.27-12.18.40:112][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
