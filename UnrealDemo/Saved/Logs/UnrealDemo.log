@@ -3791,3 +3791,923 @@ Make sure 'BP_ThirdPersonGameMode_C' has been compiled for  Set Timer
 [2024.01.27-12.51.30:644][832]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2024.01.27-12.51.30:644][832]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
 [2024.01.27-12.51.30:644][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.52.04:599][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.27-12.52.04:599][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.52.04:599][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.52.15:115][600]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.01.27-12.52.15:115][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.52.15:115][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.52.28:898][145]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.01.27-12.52.28:908][145]LogBlueprint: Warning: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\BP_ThirdPersonGameMode.uasset: [Compiler] Could not find a variable named "CurrentScore" in 'BP_ThirdPersonGameMode_C'.
+Make sure 'BP_ThirdPersonGameMode_C' has been compiled for  Set CurrentScore
+[2024.01.27-12.52.28:908][145]LogBlueprint: Warning: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\BP_ThirdPersonGameMode.uasset: [Compiler] Could not find a variable named "CurrentScore" in 'BP_ThirdPersonGameMode_C'.
+Make sure 'BP_ThirdPersonGameMode_C' has been compiled for  Get CurrentScore
+[2024.01.27-12.52.28:910][145]LogBlueprint: Error: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\BP_ThirdPersonGameMode.uasset: [Compiler] The property associated with  Current Score  could not be found in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C'
+[2024.01.27-12.52.28:910][145]LogBlueprint: Error: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\BP_ThirdPersonGameMode.uasset: [Compiler] The property associated with  Current Score  could not be found in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C'
+[2024.01.27-12.52.28:956][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.01.27-12.52.38:056][443]LogSlate: Window 'Delete Variable' being destroyed
+[2024.01.27-12.52.48:888][863]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.27-12.52.48:969][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.27-12.52.50:295][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.52.50:417][904]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.27-12.52.50:418][904]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_ThirdPersonCharacterAF5B92134F145E989ED65BA2DED53F8D.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.27-12.52.50:432][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 7.95 sec)
+[2024.01.27-12.52.50:434][904]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.27-12.52.50:434][904]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.27-12.53.38:279][603]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.01.27-12.53.38:334][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.01.27-12.53.44:924][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.53.45:050][862]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.01.27-12.53.45:050][862]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_ThirdPersonGameModeA565FEEE4F7D5DDB1B09CA9EBDC435B5.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.01.27-12.53.45:061][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 8.08 sec)
+[2024.01.27-12.53.45:061][862]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.01.27-12.53.45:063][862]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.01.27-12.53.49:021][ 26]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.53.49:021][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.53.49:021][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.54.08:794][696]BlueprintLog: New page: Compile BP_GameOverArea
+[2024.01.27-12.54.08:860][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.01.27-12.54.09:422][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.54.09:531][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GameOverArea" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset" SILENT=true
+[2024.01.27-12.54.09:547][709]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameOverArea
+[2024.01.27-12.54.09:547][709]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_GameOverArea6045B78E4F7BD0900F4664B9D94B1F7C.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/BP_GameOverArea.uasset'
+[2024.01.27-12.54.09:560][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 8.22 sec)
+[2024.01.27-12.54.09:563][709]AssetCheck: New page: Asset Save: BP_GameOverArea
+[2024.01.27-12.54.09:563][709]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-12.54.28:353][598]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-12.54.28:362][598]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-12.54.28:362][598]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.27-12.54.28:366][598]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 53 ms)
+[2024.01.27-12.54.28:366][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-12.54.28:366][598]PIE: New page: PIE session: ThirdPersonMap (Jan 27, 2024, 2:54:28 PM)
+[2024.01.27-12.54.28:366][598]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.54.28:377][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010132s)
+[2024.01.27-12.54.28:377][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010250s)
+[2024.01.27-12.54.28:392][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.01.27-12.54.28:395][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.54.28:396][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.54.28:396][598]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-12.54.28:397][598]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-12.54.28:397][598]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-12.54.28:397][598]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-12.54.28:397][598]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-12.54.28:400][598]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-12.54.28:400][598]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 946 ms)
+[2024.01.27-12.54.28:401][598]LogPlayLevel: PIE: World Init took: (0.004611s)
+[2024.01.27-12.54.28:401][598]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.01.27-12.54.28:401][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-12.54.28:401][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-12.54.28:401][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-12.54.28:401][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-12.54.28:401][598]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-12.54.28:401][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-12.54.28:401][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-12.54.28:401][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-12.54.28:402][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-12.54.28:402][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-12.54.28:402][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-12.54.28:403][598]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-12.54.28:435][598]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.27-12.54.28:436][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-12.54.28:436][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-12.54.28:436][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-12.54.28:437][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.01.27-12.54.28:437][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.01.27-12.54.28:439][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.01.27-12.54.28:439][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.01.27-12.54.28:439][598]LogInit: FAudioDevice initialized with ID 11.
+[2024.01.27-12.54.28:439][598]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2024.01.27-12.54.28:439][598]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.27-12.54.28:448][598]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-12.54.28:454][598]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-13.54.28
+[2024.01.27-12.54.28:454][598]LogWorld: Bringing up level for play took: 0.006943
+[2024.01.27-12.54.28:460][598]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2024.01.27-12.54.28:467][598]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_0' was already added to the screen.
+[2024.01.27-12.54.28:467][598]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-12.54.28:468][598]PIE: Server logged in
+[2024.01.27-12.54.28:469][598]PIE: Play in editor total start time 0.107 seconds.
+[2024.01.27-12.54.28:481][598]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:482][598]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:536][599]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:536][599]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:644][600]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:644][600]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:662][601]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:662][601]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:678][602]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:679][602]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:695][603]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:696][603]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:710][604]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:710][604]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:725][605]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:725][605]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:742][606]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:742][606]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:758][607]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:758][607]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:774][608]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:774][608]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:791][609]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:791][609]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:809][610]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:809][610]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:824][611]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:824][611]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:841][612]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:841][612]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:857][613]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_Timer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.BP_Timer_C_0
+	Function /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer_C:ExecuteUbergraph_BP_Timer:00A9
+[2024.01.27-12.54.28:857][613]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:875][614]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:893][615]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:909][616]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:924][617]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:941][618]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:958][619]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:975][620]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.28:992][621]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:008][622]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:024][623]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:041][624]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:057][625]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:076][626]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:092][627]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:108][628]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:124][629]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:141][630]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:158][631]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:174][632]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:190][633]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:209][634]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:224][635]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:243][636]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:258][637]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:276][638]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:294][639]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:309][640]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:325][641]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:341][642]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:358][643]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:374][644]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:391][645]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:407][646]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:424][647]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:441][648]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:457][649]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:475][650]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:493][651]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:510][652]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:526][653]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:542][654]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:557][655]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:574][656]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:591][657]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:607][658]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:624][659]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:641][660]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:657][661]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:675][662]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:692][663]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:709][664]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:725][665]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:744][666]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:758][667]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:776][668]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:792][669]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:809][670]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:824][671]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:841][672]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:858][673]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:874][674]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:891][675]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:909][676]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:925][677]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:942][678]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:959][679]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:975][680]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.29:993][681]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:008][682]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:026][683]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:042][684]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:057][685]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:074][686]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:092][687]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:108][688]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:124][689]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:142][690]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:158][691]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:174][692]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:191][693]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:208][694]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:224][695]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:241][696]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:259][697]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:275][698]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:312][699]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:327][700]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:340][701]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:358][702]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:375][703]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:390][704]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:408][705]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:424][706]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:439][707]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:457][708]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:473][709]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:490][710]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:507][711]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:526][712]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:540][713]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:557][714]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:573][715]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:589][716]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:606][717]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:622][718]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:639][719]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:656][720]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:671][721]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:689][722]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:707][723]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:722][724]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:739][725]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:758][726]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:774][727]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:789][728]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:806][729]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:823][730]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:839][731]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:856][732]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:873][733]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:889][734]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:905][735]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:922][736]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:940][737]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:958][738]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:973][739]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.30:990][740]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.31:007][741]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.31:023][742]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.31:039][743]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.31:053][744]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.31:069][745]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.31:086][746]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.31:102][747]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BP Timer Blueprint:  BP_Timer
+[2024.01.27-12.54.31:147][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.54.31:147][748]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.54.31:148][748]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.54.31:148][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.54.31:148][748]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-12.54.31:153][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-12.54.31:161][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.54.31:182][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-12.54.31:182][748]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.27-12.54.31:182][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.27-12.54.31:184][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.27-12.54.31:191][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.54.31:196][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.01.27-12.54.31:812][749]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2024.01.27-12.54.38:514][ 57]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer
+[2024.01.27-12.54.38:516][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.54.38:516][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.54.38:548][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.54.38:548][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.55.39:178][448]BlueprintLog: New page: Compile BP_Timer
+[2024.01.27-12.55.39:217][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.27-12.55.41:547][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.55.41:652][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_Timer" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_Timer.uasset" SILENT=true
+[2024.01.27-12.55.41:657][518]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_Timer
+[2024.01.27-12.55.41:657][518]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_TimerFCBEAABA422E00C4E626139B192E857F.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_Timer.uasset'
+[2024.01.27-12.55.41:672][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 8.35 sec)
+[2024.01.27-12.55.41:674][518]AssetCheck: New page: Asset Save: BP_Timer
+[2024.01.27-12.55.41:674][518]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer
+[2024.01.27-12.55.44:893][635]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-12.55.44:904][635]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-12.55.44:908][635]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.55.44:908][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.55.44:952][635]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.27-12.55.44:952][635]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.55.44:952][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.55.44:979][635]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.27-12.55.44:979][635]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.55.44:979][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.55.45:010][635]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.55.45:010][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.55.45:017][635]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.55.45:017][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.55.46:292][675]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-12.55.46:319][675]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-12.55.47:204][721]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-12.55.47:210][721]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-12.55.47:210][721]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.27-12.55.47:214][721]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 57 ms)
+[2024.01.27-12.55.47:214][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-12.55.47:214][721]PIE: New page: PIE session: ThirdPersonMap (Jan 27, 2024, 2:55:47 PM)
+[2024.01.27-12.55.47:215][721]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.55.47:224][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009749s)
+[2024.01.27-12.55.47:224][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009794s)
+[2024.01.27-12.55.47:246][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.27-12.55.47:253][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.55.47:253][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.55.47:253][721]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-12.55.47:254][721]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-12.55.47:254][721]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-12.55.47:254][721]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-12.55.47:254][721]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-12.55.47:257][721]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-12.55.47:257][721]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 948 ms)
+[2024.01.27-12.55.47:257][721]LogPlayLevel: PIE: World Init took: (0.004224s)
+[2024.01.27-12.55.47:257][721]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.01.27-12.55.47:257][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-12.55.47:257][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-12.55.47:257][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-12.55.47:257][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-12.55.47:257][721]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-12.55.47:257][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-12.55.47:257][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-12.55.47:257][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-12.55.47:258][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-12.55.47:258][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-12.55.47:258][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-12.55.47:260][721]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-12.55.47:279][721]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.27-12.55.47:279][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-12.55.47:279][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-12.55.47:279][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-12.55.47:279][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.01.27-12.55.47:279][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.01.27-12.55.47:282][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.01.27-12.55.47:282][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.01.27-12.55.47:282][721]LogInit: FAudioDevice initialized with ID 12.
+[2024.01.27-12.55.47:282][721]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2024.01.27-12.55.47:282][721]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.27-12.55.47:288][721]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-12.55.47:292][721]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-13.55.47
+[2024.01.27-12.55.47:292][721]LogWorld: Bringing up level for play took: 0.003657
+[2024.01.27-12.55.47:294][721]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2024.01.27-12.55.47:299][721]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_0' was already added to the screen.
+[2024.01.27-12.55.47:299][721]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-12.55.47:300][721]PIE: Server logged in
+[2024.01.27-12.55.47:301][721]PIE: Play in editor total start time 0.091 seconds.
+[2024.01.27-12.55.49:458][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.55.49:458][842]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.55.49:458][842]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.55.49:459][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.55.49:459][842]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-12.55.49:463][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-12.55.49:470][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.55.49:490][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-12.55.49:490][842]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.27-12.55.49:490][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.27-12.55.49:492][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.27-12.55.49:508][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.55.49:512][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.01.27-12.55.49:609][843]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2024.01.27-12.55.51:220][927]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-12.55.51:230][927]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-12.55.51:230][927]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.27-12.55.51:238][927]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8 ms (total: 65 ms)
+[2024.01.27-12.55.51:239][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-12.55.51:239][927]PIE: New page: PIE session: ThirdPersonMap (Jan 27, 2024, 2:55:51 PM)
+[2024.01.27-12.55.51:239][927]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.55.51:263][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023464s)
+[2024.01.27-12.55.51:263][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.023585s)
+[2024.01.27-12.55.51:285][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.27-12.55.51:287][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.55.51:288][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.55.51:288][927]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-12.55.51:288][927]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-12.55.51:288][927]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-12.55.51:288][927]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-12.55.51:290][927]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-12.55.51:292][927]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-12.55.51:292][927]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 951 ms)
+[2024.01.27-12.55.51:292][927]LogPlayLevel: PIE: World Init took: (0.004088s)
+[2024.01.27-12.55.51:292][927]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.27-12.55.51:292][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-12.55.51:292][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-12.55.51:292][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-12.55.51:292][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-12.55.51:292][927]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-12.55.51:292][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-12.55.51:292][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-12.55.51:292][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-12.55.51:293][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-12.55.51:293][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-12.55.51:293][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-12.55.51:295][927]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-12.55.51:313][927]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.27-12.55.51:314][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-12.55.51:314][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-12.55.51:314][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-12.55.51:314][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.27-12.55.51:314][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.27-12.55.51:318][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.27-12.55.51:318][927]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.27-12.55.51:318][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.27-12.55.51:318][927]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2024.01.27-12.55.51:318][927]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.27-12.55.51:323][927]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-12.55.51:326][927]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-13.55.51
+[2024.01.27-12.55.51:326][927]LogWorld: Bringing up level for play took: 0.003536
+[2024.01.27-12.55.51:329][927]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2024.01.27-12.55.51:334][927]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_0' was already added to the screen.
+[2024.01.27-12.55.51:334][927]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-12.55.51:334][927]PIE: Server logged in
+[2024.01.27-12.55.51:336][927]PIE: Play in editor total start time 0.105 seconds.
+[2024.01.27-12.56.05:217][753]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.01.27-12.56.05:217][753]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.01.27-12.56.05:217][753]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.56.05:218][753]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.56.05:219][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.56.05:219][753]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-12.56.05:239][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-12.56.05:244][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.01.27-12.56.05:248][753]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.56.05:257][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009378s)
+[2024.01.27-12.56.05:258][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009445s)
+[2024.01.27-12.56.05:258][753]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2024.01.27-12.56.05:258][753]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.56.05:258][753]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.56.05:258][753]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-12.56.05:259][753]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-12.56.05:259][753]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-12.56.05:259][753]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-12.56.05:259][753]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-12.56.05:262][753]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-12.56.05:262][753]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 954 ms)
+[2024.01.27-12.56.05:262][753]LogPlayLevel: PIE: World Init took: (0.003863s)
+[2024.01.27-12.56.05:262][753]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-12.56.05:264][753]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-13.56.05
+[2024.01.27-12.56.05:266][753]LogWorld: Bringing up level for play took: 0.003226
+[2024.01.27-12.56.05:271][753]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_1' was already added to the screen.
+[2024.01.27-12.56.05:271][753]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-12.56.05:271][753]LogLoad: Took 0.054353 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2024.01.27-12.56.21:126][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.56.21:126][695]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.56.21:128][695]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.56.21:128][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.56.21:128][695]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-12.56.21:133][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-12.56.21:139][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.56.21:159][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.56.21:160][695]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.27-12.56.21:160][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.27-12.56.21:163][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.27-12.56.21:173][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.27-12.56.21:272][696]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2024.01.27-12.56.26:281][954]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-12.56.26:282][954]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.56.26:282][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.56.26:314][954]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.56.26:314][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.56.40:711][423]LogEditorTransaction: Undo Delete Sections
+[2024.01.27-12.56.43:019][482]LogEditorTransaction: Undo Create Pin Link
+[2024.01.27-12.56.57:752][962]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.57.15:061][536]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.57.19:306][693]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer
+[2024.01.27-12.57.19:308][693]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.57.19:308][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.57.19:331][693]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.57.19:331][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.57.28:901][992]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.57.38:124][289]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.57.54:836][838]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.58.16:001][511]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.58.38:784][242]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.58.48:438][547]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.58.51:886][651]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.59.18:540][490]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-12.59.59:913][815]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.27-12.59.59:966][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.01.27-13.00.03:193][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-13.00.03:313][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset" SILENT=true
+[2024.01.27-13.00.03:324][905]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget
+[2024.01.27-13.00.03:324][905]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget55F2FBE544B8A1101D8B988C16CAD739.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset'
+[2024.01.27-13.00.03:336][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 8.49 sec)
+[2024.01.27-13.00.03:339][905]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.27-13.00.03:339][905]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-13.00.15:735][310]BlueprintLog: New page: Compile BP_Timer
+[2024.01.27-13.00.15:764][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.01.27-13.00.17:259][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-13.00.17:458][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_Timer" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_Timer.uasset" SILENT=true
+[2024.01.27-13.00.17:463][327]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_Timer
+[2024.01.27-13.00.17:464][327]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Timer442379344CF30E225048C9BF34DB93E2.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_Timer.uasset'
+[2024.01.27-13.00.17:477][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 8.71 sec)
+[2024.01.27-13.00.17:480][327]AssetCheck: New page: Asset Save: BP_Timer
+[2024.01.27-13.00.17:480][327]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer
+[2024.01.27-13.00.18:404][350]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-13.00.18:414][350]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-13.00.18:423][350]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.00.18:423][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.00.18:429][350]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.00.18:429][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.00.18:476][350]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.00.18:476][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.00.18:483][350]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.00.18:483][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.00.19:326][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-13.00.19:334][382]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-13.00.19:334][382]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.27-13.00.19:341][382]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5 ms (total: 70 ms)
+[2024.01.27-13.00.19:341][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-13.00.19:342][382]PIE: New page: PIE session: ThirdPersonMap (Jan 27, 2024, 3:00:19 PM)
+[2024.01.27-13.00.19:342][382]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.00.19:356][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015291s)
+[2024.01.27-13.00.19:356][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.015354s)
+[2024.01.27-13.00.19:378][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.27-13.00.19:385][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.00.19:385][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.00.19:386][382]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-13.00.19:386][382]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-13.00.19:386][382]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-13.00.19:386][382]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-13.00.19:386][382]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-13.00.19:389][382]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-13.00.19:389][382]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 956 ms)
+[2024.01.27-13.00.19:389][382]LogPlayLevel: PIE: World Init took: (0.004083s)
+[2024.01.27-13.00.19:389][382]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.27-13.00.19:389][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-13.00.19:389][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-13.00.19:389][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-13.00.19:389][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-13.00.19:389][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-13.00.19:389][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-13.00.19:389][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-13.00.19:389][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-13.00.19:390][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-13.00.19:390][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-13.00.19:390][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-13.00.19:392][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-13.00.19:413][382]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.27-13.00.19:413][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-13.00.19:413][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-13.00.19:413][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-13.00.19:414][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.01.27-13.00.19:414][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.01.27-13.00.19:416][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.01.27-13.00.19:416][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.01.27-13.00.19:416][382]LogInit: FAudioDevice initialized with ID 14.
+[2024.01.27-13.00.19:416][382]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2024.01.27-13.00.19:416][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.27-13.00.19:422][382]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-13.00.19:425][382]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-14.00.19
+[2024.01.27-13.00.19:426][382]LogWorld: Bringing up level for play took: 0.003683
+[2024.01.27-13.00.19:429][382]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2024.01.27-13.00.19:434][382]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_0' was already added to the screen.
+[2024.01.27-13.00.19:434][382]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-13.00.19:434][382]PIE: Server logged in
+[2024.01.27-13.00.19:435][382]PIE: Play in editor total start time 0.1 seconds.
+[2024.01.27-13.00.22:516][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.00.22:517][557]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.00.22:517][557]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.00.22:519][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.00.22:519][557]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-13.00.22:523][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-13.00.22:529][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.00.22:550][557]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-13.00.22:551][557]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.27-13.00.22:551][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.27-13.00.22:553][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.27-13.00.22:558][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.00.22:563][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.27-13.00.22:657][558]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2024.01.27-13.00.25:259][696]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer
+[2024.01.27-13.00.25:260][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.00.25:260][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.00.25:285][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.00.25:285][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.00.39:764][ 53]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-13.00.39:774][ 53]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-13.00.39:783][ 53]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.00.39:783][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.00.39:789][ 53]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.00.39:789][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.00.41:926][159]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-13.00.41:926][159]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.00.41:926][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.00.41:954][159]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.00.41:954][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.01.40:492][257]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-13.01.44:652][401]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-13.01.49:268][571]BlueprintLog: New page: Compile BP_KeyWidget
+[2024.01.27-13.01.49:314][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.27-13.01.50:646][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-13.01.50:738][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_KeyWidget" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset" SILENT=true
+[2024.01.27-13.01.50:748][612]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget
+[2024.01.27-13.01.50:748][612]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_KeyWidget5F2CC53D46C5CC000DDA50B9DC7DA841.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_KeyWidget.uasset'
+[2024.01.27-13.01.50:761][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 8.83 sec)
+[2024.01.27-13.01.50:763][612]AssetCheck: New page: Asset Save: BP_KeyWidget
+[2024.01.27-13.01.50:763][612]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-13.01.51:491][638]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-13.01.51:503][638]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-13.01.51:512][638]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.01.51:512][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.01.51:517][638]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.01.51:517][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.01.52:374][676]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-13.01.52:375][676]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.01.52:375][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.01.52:402][676]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.01.52:402][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.01.58:505][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-13.01.58:521][899]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-13.01.58:521][899]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.27-13.01.58:526][899]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5 ms (total: 76 ms)
+[2024.01.27-13.01.58:527][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-13.01.58:528][899]PIE: New page: PIE session: ThirdPersonMap (Jan 27, 2024, 3:01:58 PM)
+[2024.01.27-13.01.58:528][899]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.01.58:537][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009745s)
+[2024.01.27-13.01.58:537][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009797s)
+[2024.01.27-13.01.58:563][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.01.27-13.01.58:568][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.01.58:568][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.01.58:569][899]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-13.01.58:570][899]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-13.01.58:570][899]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-13.01.58:570][899]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-13.01.58:570][899]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-13.01.58:572][899]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-13.01.58:572][899]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 959 ms)
+[2024.01.27-13.01.58:572][899]LogPlayLevel: PIE: World Init took: (0.003919s)
+[2024.01.27-13.01.58:572][899]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.01.27-13.01.58:572][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-13.01.58:572][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-13.01.58:572][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-13.01.58:572][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-13.01.58:572][899]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-13.01.58:572][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-13.01.58:572][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-13.01.58:573][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-13.01.58:573][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-13.01.58:573][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-13.01.58:573][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-13.01.58:576][899]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-13.01.58:596][899]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.27-13.01.58:597][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-13.01.58:597][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-13.01.58:597][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-13.01.58:601][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.01.27-13.01.58:601][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.01.27-13.01.58:604][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.01.27-13.01.58:604][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.01.27-13.01.58:604][899]LogInit: FAudioDevice initialized with ID 15.
+[2024.01.27-13.01.58:604][899]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2024.01.27-13.01.58:604][899]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.27-13.01.58:614][899]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-13.01.58:619][899]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-14.01.58
+[2024.01.27-13.01.58:619][899]LogWorld: Bringing up level for play took: 0.004445
+[2024.01.27-13.01.58:622][899]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2024.01.27-13.01.58:628][899]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_0' was already added to the screen.
+[2024.01.27-13.01.58:628][899]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-13.01.58:629][899]PIE: Server logged in
+[2024.01.27-13.01.58:629][899]PIE: Play in editor total start time 0.108 seconds.
+[2024.01.27-13.02.00:117][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.02.00:117][969]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.02.00:117][969]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.02.00:119][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.00:119][969]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-13.02.00:122][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-13.02.00:129][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.00:153][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-13.02.00:154][969]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.27-13.02.00:154][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.27-13.02.00:156][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.27-13.02.00:162][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.02.00:167][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.01.27-13.02.00:261][970]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2024.01.27-13.02.01:340][ 12]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-13.02.01:352][ 12]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-13.02.01:360][ 12]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.02.01:360][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.01:366][ 12]LogWorld: UWorld::CleanupWorld for World_130, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.02.01:366][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.02:444][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-13.02.02:449][ 64]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-13.02.02:449][ 64]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.27-13.02.02:453][ 64]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 79 ms)
+[2024.01.27-13.02.02:453][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-13.02.02:453][ 64]PIE: New page: PIE session: ThirdPersonMap (Jan 27, 2024, 3:02:02 PM)
+[2024.01.27-13.02.02:453][ 64]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.02.02:462][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009205s)
+[2024.01.27-13.02.02:463][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009254s)
+[2024.01.27-13.02.02:480][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.27-13.02.02:487][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.02.02:487][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.02.02:487][ 64]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-13.02.02:488][ 64]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-13.02.02:488][ 64]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-13.02.02:488][ 64]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-13.02.02:488][ 64]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-13.02.02:490][ 64]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-13.02.02:490][ 64]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 961 ms)
+[2024.01.27-13.02.02:490][ 64]LogPlayLevel: PIE: World Init took: (0.003695s)
+[2024.01.27-13.02.02:490][ 64]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.01.27-13.02.02:490][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-13.02.02:490][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-13.02.02:490][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-13.02.02:490][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-13.02.02:490][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-13.02.02:490][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-13.02.02:490][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-13.02.02:490][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-13.02.02:491][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-13.02.02:491][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-13.02.02:491][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-13.02.02:494][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-13.02.02:512][ 64]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.27-13.02.02:513][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-13.02.02:513][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-13.02.02:513][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-13.02.02:514][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.01.27-13.02.02:514][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.01.27-13.02.02:516][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.01.27-13.02.02:516][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.01.27-13.02.02:516][ 64]LogInit: FAudioDevice initialized with ID 16.
+[2024.01.27-13.02.02:516][ 64]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonMap'.
+[2024.01.27-13.02.02:516][ 64]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.27-13.02.02:520][ 64]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-13.02.02:523][ 64]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-14.02.02
+[2024.01.27-13.02.02:523][ 64]LogWorld: Bringing up level for play took: 0.003315
+[2024.01.27-13.02.02:526][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2024.01.27-13.02.02:531][ 64]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_0' was already added to the screen.
+[2024.01.27-13.02.02:531][ 64]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-13.02.02:531][ 64]PIE: Server logged in
+[2024.01.27-13.02.02:532][ 64]PIE: Play in editor total start time 0.083 seconds.
+[2024.01.27-13.02.04:047][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.02.04:047][144]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.02.04:047][144]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.02.04:048][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.04:048][144]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-13.02.04:052][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-13.02.04:060][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.04:078][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.02.04:078][144]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.27-13.02.04:078][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.27-13.02.04:080][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.27-13.02.04:092][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.27-13.02.04:501][145]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2024.01.27-13.02.06:367][233]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer
+[2024.01.27-13.02.06:368][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.02.06:368][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.02.06:407][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.02.06:407][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.02.18:958][658]BlueprintLog: New page: Compile BP_Timer
+[2024.01.27-13.02.19:029][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.27-13.02.19:491][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-13.02.19:599][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UI/BP_Timer" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_Timer.uasset" SILENT=true
+[2024.01.27-13.02.19:604][671]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UI/BP_Timer
+[2024.01.27-13.02.19:604][671]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Timer7B146DAB4E47FFAE2B7F21AA6EBECC3F.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/UI/BP_Timer.uasset'
+[2024.01.27-13.02.19:619][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 8.95 sec)
+[2024.01.27-13.02.19:621][671]AssetCheck: New page: Asset Save: BP_Timer
+[2024.01.27-13.02.19:621][671]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_Timer.BP_Timer
+[2024.01.27-13.02.20:408][700]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-13.02.20:423][700]LogSlate: Window 'BP_Timer' being destroyed
+[2024.01.27-13.02.20:431][700]LogWorld: UWorld::CleanupWorld for World_133, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.02.20:431][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.20:436][700]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.02.20:436][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.21:477][750]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-13.02.21:490][750]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-13.02.21:490][750]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.27-13.02.21:496][750]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 6 ms (total: 86 ms)
+[2024.01.27-13.02.21:496][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-13.02.21:496][750]PIE: New page: PIE session: ThirdPersonMap (Jan 27, 2024, 3:02:21 PM)
+[2024.01.27-13.02.21:496][750]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.02.21:506][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009797s)
+[2024.01.27-13.02.21:506][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009852s)
+[2024.01.27-13.02.21:526][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.27-13.02.21:533][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.02.21:533][750]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.02.21:534][750]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-13.02.21:534][750]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-13.02.21:534][750]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-13.02.21:534][750]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-13.02.21:534][750]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-13.02.21:537][750]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-13.02.21:537][750]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 964 ms)
+[2024.01.27-13.02.21:537][750]LogPlayLevel: PIE: World Init took: (0.004111s)
+[2024.01.27-13.02.21:537][750]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.01.27-13.02.21:537][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-13.02.21:537][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-13.02.21:537][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-13.02.21:537][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-13.02.21:537][750]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-13.02.21:537][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-13.02.21:537][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-13.02.21:537][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-13.02.21:538][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-13.02.21:538][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-13.02.21:538][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-13.02.21:541][750]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-13.02.21:559][750]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.27-13.02.21:560][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-13.02.21:560][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-13.02.21:560][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-13.02.21:560][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.01.27-13.02.21:561][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.01.27-13.02.21:563][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.01.27-13.02.21:563][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.01.27-13.02.21:563][750]LogInit: FAudioDevice initialized with ID 17.
+[2024.01.27-13.02.21:563][750]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2024.01.27-13.02.21:563][750]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.01.27-13.02.21:568][750]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-13.02.21:572][750]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-14.02.21
+[2024.01.27-13.02.21:572][750]LogWorld: Bringing up level for play took: 0.003667
+[2024.01.27-13.02.21:574][750]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2024.01.27-13.02.21:580][750]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_0' was already added to the screen.
+[2024.01.27-13.02.21:580][750]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-13.02.21:581][750]PIE: Server logged in
+[2024.01.27-13.02.21:582][750]PIE: Play in editor total start time 0.092 seconds.
+[2024.01.27-13.02.32:001][369]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.01.27-13.02.32:001][369]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.01.27-13.02.32:001][369]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.02.32:002][369]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.02.32:003][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.32:003][369]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-13.02.32:021][369]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-13.02.32:028][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.01.27-13.02.32:032][369]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.02.32:041][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009559s)
+[2024.01.27-13.02.32:041][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009644s)
+[2024.01.27-13.02.32:041][369]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2024.01.27-13.02.32:041][369]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.02.32:041][369]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.02.32:042][369]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-13.02.32:042][369]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-13.02.32:042][369]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-13.02.32:043][369]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.27-13.02.32:043][369]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.27-13.02.32:045][369]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-13.02.32:045][369]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 966 ms)
+[2024.01.27-13.02.32:045][369]LogPlayLevel: PIE: World Init took: (0.003891s)
+[2024.01.27-13.02.32:045][369]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-13.02.32:048][369]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.27-14.02.32
+[2024.01.27-13.02.32:049][369]LogWorld: Bringing up level for play took: 0.003259
+[2024.01.27-13.02.32:054][369]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_1' was already added to the screen.
+[2024.01.27-13.02.32:054][369]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.27-13.02.32:055][369]LogLoad: Took 0.054084 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2024.01.27-13.02.44:795][128]Cmd: quit
+[2024.01.27-13.02.44:797][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.02.44:797][128]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-13.02.44:798][128]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.02.44:798][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.44:798][128]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-13.02.44:802][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-13.02.44:809][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.02.44:826][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.02.44:826][128]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.01.27-13.02.44:826][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.01.27-13.02.44:829][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.01.27-13.02.44:839][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.27-13.02.44:952][129]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2024.01.27-13.03.08:216][427]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/UI/BP_KeyWidget.BP_KeyWidget
+[2024.01.27-13.03.08:216][427]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.03.08:216][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.03.08:238][427]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.03.08:238][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.03.27:220][126]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-13.03.27:232][126]LogSlate: Window 'BP_KeyWidget' being destroyed
+[2024.01.27-13.03.27:240][126]LogWorld: UWorld::CleanupWorld for World_136, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.03.27:240][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.03.27:246][126]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.03.27:246][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.04.12:325][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_GameOverArea.BP_GameOverArea
+[2024.01.27-13.04.12:326][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.04.12:326][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.04.42:244][179]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-13.04.42:256][179]LogSlate: Window 'BP_GameOverArea' being destroyed
+[2024.01.27-13.04.42:260][179]LogWorld: UWorld::CleanupWorld for World_137, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.04.42:260][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.04.47:692][440]LogContentBrowser: Attempting asset rename: BP_ThirdPersonGameMode -> BP_ThirdPersonGameMode
