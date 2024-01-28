@@ -6649,3 +6649,143 @@ Script Stack (1 frames) :
 [2024.01.28-12.25.56:060][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 26.3 sec)
 [2024.01.28-12.25.56:062][815]AssetCheck: New page: Asset Save: BP_Enemy
 [2024.01.28-12.25.56:062][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy.BP_Enemy
+[2024.01.28-12.26.27:872][  0]BlueprintLog: New page: Compile BP_Enemy
+[2024.01.28-12.26.27:929][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.28-12.29.30:893][  3]BlueprintLog: New page: Compile BP_Enemy
+[2024.01.28-12.29.30:952][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.01.28-12.29.32:295][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-12.29.32:406][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Enemy/BP_Enemy" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.01.28-12.29.32:429][ 45]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy
+[2024.01.28-12.29.32:430][ 45]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_EnemyDDC0878F4F15567FDD00B788B1A35282.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset'
+[2024.01.28-12.29.32:445][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 26.5 sec)
+[2024.01.28-12.29.32:446][ 45]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.01.28-12.29.32:446][ 45]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy.BP_Enemy
+[2024.01.28-12.30.58:095][249]BlueprintLog: New page: Compile BP_Enemy
+[2024.01.28-12.30.58:106][249]LogBlueprint: Error: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\Enemy\BP_Enemy.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.01.28-12.30.58:117][249]LogClass: Warning: Type mismatch in PrevPatrolLocIndex of BP_Enemy_C - Previous (StructProperty) Current(IntProperty) for package:  FObjectReader
+[2024.01.28-12.30.58:121][249]LogBlueprint: Warning: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\Enemy\BP_Enemy.uasset: [Compiler] Can't parse default value '0.000000,0.000000,0.000000' for  . Property: PrevPatrolLocIndex.
+[2024.01.28-12.30.58:168][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.28-12.30.58:744][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-12.30.58:859][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Enemy/BP_Enemy" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.01.28-12.30.58:874][263]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy
+[2024.01.28-12.30.58:875][263]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Enemy3C3A2A9B4A3C105A9A4C8BBE29C03D60.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset'
+[2024.01.28-12.30.58:889][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 26.6 sec)
+[2024.01.28-12.30.58:892][263]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.01.28-12.30.58:892][263]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy.BP_Enemy
+[2024.01.28-12.33.10:376][166]LogEditorTransaction: Undo Delete current selection
+[2024.01.28-12.33.11:252][181]LogEditorTransaction: Undo Move Node
+[2024.01.28-12.33.12:514][218]LogEditorTransaction: Undo Create Pin Link
+[2024.01.28-12.33.49:164][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-12.33.49:276][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Enemy/BP_Enemy" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.01.28-12.33.49:291][533]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy
+[2024.01.28-12.33.49:291][533]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_EnemyB04DC28C4F3678F2740A2D865A2CD32C.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset'
+[2024.01.28-12.33.49:308][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 26.8 sec)
+[2024.01.28-12.33.49:310][533]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.01.28-12.33.49:310][533]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy.BP_Enemy
+[2024.01.28-12.33.51:534][613]BlueprintLog: New page: Compile BP_Enemy
+[2024.01.28-12.33.51:550][613]LogBlueprint: Error: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\Enemy\BP_Enemy.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2024.01.28-12.33.51:558][613]LogBlueprint: Error: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\Enemy\BP_Enemy.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.01.28-12.33.51:609][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.28-12.34.38:908][459]BlueprintLog: New page: Compile BP_Enemy
+[2024.01.28-12.34.38:916][459]LogBlueprint: Error: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\Enemy\BP_Enemy.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2024.01.28-12.34.38:918][459]LogBlueprint: Error: [AssetLog] A:\unreal-engine-demo\UnrealDemo\Content\ThirdPerson\Blueprints\Enemy\BP_Enemy.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.01.28-12.34.38:966][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.28-12.35.13:959][749]BlueprintLog: New page: Compile BP_Enemy
+[2024.01.28-12.35.14:022][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.01.28-12.35.22:514][ 50]BlueprintLog: New page: Compile BP_Enemy
+[2024.01.28-12.35.22:589][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.01.28-12.35.24:032][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-12.35.24:144][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Enemy/BP_Enemy" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.01.28-12.35.24:160][ 99]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy
+[2024.01.28-12.35.24:161][ 99]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Enemy32504FB64BE2DB6E990BF5920C032D9A.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset'
+[2024.01.28-12.35.24:176][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 26.9 sec)
+[2024.01.28-12.35.24:178][ 99]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.01.28-12.35.24:178][ 99]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy.BP_Enemy
+[2024.01.28-12.36.51:963][565]BlueprintLog: New page: Compile BP_Enemy
+[2024.01.28-12.36.52:023][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.01.28-12.36.52:787][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-12.36.52:893][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Enemy/BP_Enemy" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.01.28-12.36.52:907][592]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy
+[2024.01.28-12.36.52:907][592]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_Enemy2DF858A14021F3A2E0C8688131C6D577.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset'
+[2024.01.28-12.36.52:921][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 27.1 sec)
+[2024.01.28-12.36.52:923][592]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.01.28-12.36.52:923][592]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy.BP_Enemy
+[2024.01.28-12.36.54:563][676]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-12.36.54:574][676]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.28-12.36.54:574][676]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.28-12.36.54:578][676]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 196 ms)
+[2024.01.28-12.36.54:578][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-12.36.54:578][676]PIE: New page: PIE session: ThirdPersonMap (Jan 28, 2024, 2:36:54 PM)
+[2024.01.28-12.36.54:579][676]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.28-12.36.54:591][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012141s)
+[2024.01.28-12.36.54:591][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012187s)
+[2024.01.28-12.36.54:607][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.28-12.36.54:611][676]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-12.36.54:611][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-12.36.54:612][676]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.28-12.36.54:613][676]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.28-12.36.54:613][676]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.28-12.36.54:613][676]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.28-12.36.54:613][676]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.28-12.36.54:615][676]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.28-12.36.54:615][676]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 443 ms)
+[2024.01.28-12.36.54:615][676]LogPlayLevel: PIE: World Init took: (0.003864s)
+[2024.01.28-12.36.54:615][676]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.01.28-12.36.54:615][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-12.36.54:615][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-12.36.54:615][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-12.36.54:615][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-12.36.54:615][676]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-12.36.54:615][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-12.36.54:615][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-12.36.54:615][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-12.36.54:616][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-12.36.54:616][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-12.36.54:616][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-12.36.54:618][676]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-12.36.54:638][676]LogAudioMixer: Display: Using Audio Hardware Device Headphones (RH-835BTH TWS)
+[2024.01.28-12.36.54:640][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-12.36.54:640][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-12.36.54:640][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-12.36.54:640][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2024.01.28-12.36.54:640][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2024.01.28-12.36.54:642][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2024.01.28-12.36.54:642][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2024.01.28-12.36.54:642][676]LogInit: FAudioDevice initialized with ID 47.
+[2024.01.28-12.36.54:642][676]LogAudio: Display: Audio Device (ID: 47) registered with world 'ThirdPersonMap'.
+[2024.01.28-12.36.54:642][676]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2024.01.28-12.36.54:649][676]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.28-12.36.54:653][676]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.01.28-13.36.54
+[2024.01.28-12.36.54:654][676]LogWorld: Bringing up level for play took: 0.004315
+[2024.01.28-12.36.54:656][676]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2024.01.28-12.36.54:663][676]LogScript: Warning: Script Msg: The widget 'BP_Timer_C_0' was already added to the screen.
+[2024.01.28-12.36.54:663][676]LogScript: Warning: Script Msg called by: BP_ThirdPersonGameMode_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonGameMode_C_0
+[2024.01.28-12.36.54:665][676]PIE: Server logged in
+[2024.01.28-12.36.54:666][676]PIE: Play in editor total start time 0.091 seconds.
+[2024.01.28-12.37.28:928][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-12.37.28:928][717]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.28-12.37.28:928][717]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.37.28:929][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.37.28:929][717]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.28-12.37.28:961][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-12.37.28:968][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.37.28:989][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-12.37.28:989][717]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2024.01.28-12.37.28:989][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.01.28-12.37.28:991][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.01.28-12.37.29:001][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.28-12.37.29:157][718]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2024.01.28-12.37.30:435][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-12.37.30:571][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.01.28-12.37.30:590][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.28-12.37.30:610][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.28-12.37.30:626][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 27.3 sec)
+[2024.01.28-12.37.46:775][501]BlueprintLog: New page: Compile BP_Enemy
+[2024.01.28-12.37.46:831][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.01.28-12.37.47:231][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-12.37.47:341][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Enemy/BP_Enemy" FILE="../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.01.28-12.37.47:357][512]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy
+[2024.01.28-12.37.47:357][512]LogSavePackage: Moving '../../../../../unreal-engine-demo/UnrealDemo/Saved/BP_EnemyDFB77D0F4CD2F6B262F5B79EEE209BB2.tmp' to '../../../../../unreal-engine-demo/UnrealDemo/Content/ThirdPerson/Blueprints/Enemy/BP_Enemy.uasset'
+[2024.01.28-12.37.47:371][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 27.4 sec)
+[2024.01.28-12.37.47:373][512]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.01.28-12.37.47:373][512]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Enemy/BP_Enemy.BP_Enemy
